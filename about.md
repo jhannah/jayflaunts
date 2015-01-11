@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I've been listening to podcasts since before iTunes knew what they were. Big fan. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I've had lots of interesting conversations with people about their jobs, projects, hobbies, 
+politics, religion, and other topics that may or may not be safe for polite company.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I bought this cool microphone, let's see if anybody will go "on the record" with me. And if
+anyone else wants to listen.  :) 
