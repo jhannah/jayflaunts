@@ -10,4 +10,4 @@ I've had lots of interesting conversations with people about their jobs, project
 politics, religion, and other topics that may or may not be safe for polite company.
 
 I bought this cool microphone, let's see if anybody will go "on the record" with me. And if
-anyone else wants to listen.  :) 
+anyone wants to listen.  :) 
