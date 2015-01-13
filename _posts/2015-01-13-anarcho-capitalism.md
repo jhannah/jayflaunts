@@ -21,4 +21,5 @@ Join Alec and Jay for a fascinating exploration of alternative governance. Or la
 * [Nash equilibrium](http://en.wikipedia.org/wiki/Nash_equilibrium)
 * [Minarchism](http://en.wikipedia.org/wiki/Minarchism)
 * [Free State Project](https://freestateproject.org)
+* [Rates of unsolved murder by state](http://anepigone.blogspot.com/2013/01/rates-of-unsolved-murder-by-state.html)
 
