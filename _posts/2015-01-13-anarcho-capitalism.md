@@ -18,6 +18,7 @@ Join Alec and Jay for a fascinating exploration of alternative governance. Or la
 * [AnCap Omaha](http://www.meetup.com/AnCap-Omaha/) 
 * [NPR Planet Money podcast: Keynes Vs. Hayek](http://www.npr.org/blogs/money/2011/10/28/141802704/the-friday-podcast-keynes-vs-hayek)
 * [Wikipedia list: Anarchism by form](http://en.wikipedia.org/wiki/Category:Anarchism_by_form)
-
-
+* [Nash equilibrium](http://en.wikipedia.org/wiki/Nash_equilibrium)
+* [Minarchism](http://en.wikipedia.org/wiki/Minarchism)
+* [Free State Project](https://freestateproject.org)
 
