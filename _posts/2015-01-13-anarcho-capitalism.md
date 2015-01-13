@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Anarcho-capitalism"
-date:   2015-01-14 13:27:34
+title:  "Anarcho-capitalism w/ Alec Larsen"
+date:   2015-01-13 13:27:34
 categories: 
 ---
 
@@ -13,7 +13,11 @@ categories:
 What's the point of government? What's it good at? Bad at?
 Is democracy all it's cracked up to be?
 
-Join us for a fascinating exploration of an alternative governance. Or lack thereof. :) 
+Join Alec and Jay for a fascinating exploration of alternative governance. Or lack thereof. :) 
+
+* [AnCap Omaha](http://www.meetup.com/AnCap-Omaha/) 
+* [NPR Planet Money podcast: Keynes Vs. Hayek](http://www.npr.org/blogs/money/2011/10/28/141802704/the-friday-podcast-keynes-vs-hayek)
+* [Wikipedia list: Anarchism by form](http://en.wikipedia.org/wiki/Category:Anarchism_by_form)
 
 
 
