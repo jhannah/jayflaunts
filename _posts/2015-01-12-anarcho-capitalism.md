@@ -17,8 +17,6 @@ Is democracy all it's cracked up to be?
 
 Join Alec and Jay for a fascinating exploration of alternative governance. Or lack thereof. :)
 
-<a href="{{site.dropbox_url}}/S0E0.mp3" target="_blank">S0E0.mp3</a> (2h 49m 163MB) 
-
 * [AnCap Omaha](http://www.meetup.com/AnCap-Omaha/) 
 * [NPR Planet Money podcast: Keynes Vs. Hayek](http://www.npr.org/blogs/money/2011/10/28/141802704/the-friday-podcast-keynes-vs-hayek)
 * [Wikipedia list: Anarchism by form](http://en.wikipedia.org/wiki/Category:Anarchism_by_form)
