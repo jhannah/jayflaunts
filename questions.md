@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Ideas
-permalink: /ideas/
+title: Questions
+permalink: /questions/
 ---
 
-A list of ideas where I don't (yet?) have a specific interview candidate in mind, 
+A list of questions where I don't (yet?) have a specific interview candidate in mind, 
 or am flushing out an outline to send to potential interviewees.
 
 # <a name="prosector_impartiality"></a>Prosecutor Impartiality
