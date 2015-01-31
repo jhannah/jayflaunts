@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Anarcho-capitalism w/ Alec Larsen"
+title:  "S0E0: Anarcho-capitalism w/ Alec Larsen"
 date:   2015-01-12 13:27:34
 categories:
 duration: 2:49:00 
