@@ -5,7 +5,7 @@ date:   2015-01-12 13:27:34
 categories:
 duration: 2:49:00 
 length: 162809475
-link: "{{site.dropbox_url}}/S0E0.mp3"
+link: "https://dl.dropboxusercontent.com/u/244885/jay_flaunts/S0E0.mp3"
 ---
 
 <a href="{{site.dropbox_url}}/S0E0.mp3" target="_blank">S0E0.mp3</a> (2h 49m 163MB) 
