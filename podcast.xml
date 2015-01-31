@@ -9,11 +9,15 @@ layout: null
 		<link>http://jhannah.github.io/jayflaunts/</link>
 		<language>en</language>
 		<copyright>&#xA9; 2015 Jay Hannah</copyright>
-		<itunes:subtitle>Jay Hannah running around talking to interesting people about whatever they're excited about.</itunes:subtitle>
+<!--		<itunes:subtitle>Jay Hannah running around talking to interesting people about whatever they're excited about.</itunes:subtitle>  -->
 		<itunes:author>Jay Hannah</itunes:author>
 		<itunes:keywords>talk,interview</itunes:keywords>
 		<itunes:summary>Jay Hannah running around talking to interesting people about whatever they're excited about.</itunes:summary>
-		<description>Jay Hannah running around talking to interesting people about whatever they're excited about.</description>
+		<description>Hi. My name is Jay Hannah. I’m a computer nerd with too many hobbies currently living in Omaha, Nebraska, USA. I’ve been listening to podcasts since before iTunes knew what they were. Big fan.
+
+I’ve had lots of interesting conversations with people about their jobs, projects, hobbies, politics, religion, and other topics that may or may not be safe for polite company.
+
+In January 2015 I bought a cool microphone. Let’s see if anybody will go “on the record” with me. And if anyone wants to listen. :)</description>
 		<itunes:owner>
 			<itunes:name>Jay Hannah</itunes:name>
 			<itunes:email>jay+flaunts@jays.net</itunes:email>
