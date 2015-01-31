@@ -24,19 +24,21 @@ In January 2015 I bought a cool microphone. Let’s see if anybody will go “on
 		</itunes:owner>
 		<itunes:image href="{{site.dropbox_url}}/jay2.jpg" />
 		<itunes:category text="Society &amp; Culture" />
+		<itunes:explicit>yes</itunes:explicit>
 		<itunes:new-feed-url>http://jhannah.github.io/jayflaunts/podcast.xml</itunes:new-feed-url>
 		{% for post in site.posts %}
 			 <item>
-				 <title>{{ post.title }}</title>
-				 <itunes:author>Jay Hannah</itunes:author>
-				 <itunes:subtitle>{{ post.title }}</itunes:subtitle>
-				 <itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
-				 <itunes:image href="{{site.dropbox_url}}/jay2.jpg" />
-				 <enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/x-m4a" />
-				 <guid>{{ post.link }}</guid>
-				 <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
-				 <itunes:duration>{{ post.duration }}</itunes:duration>
-				 <itunes:keywords>utalk,interview</itunes:keywords>
+				<title>{{ post.title }}</title>
+				<itunes:author>Jay Hannah</itunes:author>
+				<itunes:subtitle>{{ post.title }}</itunes:subtitle>
+				<itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
+				<itunes:image href="{{site.dropbox_url}}/jay2.jpg" />
+				<enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/x-m4a" />
+				<guid>{{ post.link }}</guid>
+				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
+				<itunes:duration>{{ post.duration }}</itunes:duration>
+				<itunes:keywords>utalk,interview</itunes:keywords>
+				<itunes:explicit>yes</itunes:explicit>
 			</item>
 		{% endfor %}
 	</channel>
