@@ -4,8 +4,69 @@ title: Questions
 permalink: /questions/
 ---
 
-A list of questions where I don't (yet?) have a specific interview candidate in mind, 
-or am flushing out an outline to send to potential interviewees.
+Flushing out questions / notes in advance of interviews. 
+
+
+# <a name="on"></a>Open Nebraska
+
+[Open Nebraska](http://opennebraska.io/) is a civic innovation organization serving the 
+citizens of the great state of Nebraska. Founded in 2012, our mission is to solve 
+community problems through civic application development, open data advocacy, and tech 
+education. We aim to drive innovation and community engagement in Nebraska by making 
+local information more accessible to the public.
+
+* Why did you create Open Nebraska in 2012?
+* What's happening in 2015? 
+* Is wrangling legal documents somehow not the most frustrating thing ever? :)
+It seems like there are lots of nice people with good intentions doing their individual
+jobs in government, but engaging "the system" itself seems so very daunting? 
+Can individuals with jobs and families and other interests make a dent over time?
+* Do you need more help? What skill sets are you looking for? How can people get involved?
+
+
+# <a name="wynn"></a>Matt Wynn
+
+[Matt Wynn's personal homepage](http://mattwynn.net/) says: My name’s Matt. I’m a web developer and reporter with 
+the Omaha World-Herald. I write stories that uncover problems, advocate for the open web and 
+build apps that let people make the news their own.
+
+Projects from mattwynn.net:
+
+* [Omaha Crime Report](http://omahacrimereport.com/) - Data still daily batch? 
+Getting everything you want? I'm still surprised OPD doesn't have incident landing pages.
+* [Public pay](http://dataomaha.com/salaries) - any backlash for making the data easy to see?
+* [Prison scandal](http://dataomaha.com/prison) - inception story? 
+
+[Legistlative Bill 432](http://www.nebraskalegislature.gov/FloorDocs/104/PDF/Intro/LB432.pdf):
+
+* [Senator withdraws bill that unintentionally repeals citizens' public records rights](http://www.omaha.com/news/legislature/senator-withdraws-bill-that-unintentionally-repeals-citizens-public-records-rights/article_ae59958d-34e1-597a-b688-6576d46b8773.html#.VMvAGn8leHA.twitter)
+* "If you picture me reading this bill with a thoughtful face, you are incorrect. It makes me livid. 
+[tweet](https://twitter.com/mattwynn/status/558679098281574401)
+* Doesn't look so bad? "Well, may codify goofy practice of making data == PDFs. 
+Second, eliminates free inspection of records."
+
+Another tweet where I suspect I missed much of the critical context:
+
+* "The JustIN flap makes me wonder why taxpayers are ok with gigantic media relations staffs on public payrolls, but not a full-on news service"
+* Is that one the same as this one? "Armchair ethicists might like this: 
+[Gov hiring his campaign staffer as an adviser, and paying her with his own $](http://www.omaha.com/news/politics/questions-arise-after-gov-ricketts-uses-his-own-money-to/article_03b0a5dd-52f5-5581-9f7a-fff8df55e3ea.html)
+
+
+# <a name="fvs"></a>Friedman v. Steel - Nebraska Open Records Case
+
+Bruce Friedman is a 25 year IT veteran, primarily in infrastructure engineering and 
+architecture. Also a father of 9, an avid proponent of open records, and a person 
+who is patently interested in whatever the data shows, the data shows.
+
+[Bruce's Dropbox](https://www.dropbox.com/sh/vb7jze4fhj87zjc/AAChYVo1sb6edYROdrIyXaO3a?dl=0) includes 
+"This whole process started over 4 years ago for me.docx"
+
+* Meetup.com: [Jan 26 2015 trial conclusion](http://www.meetup.com/Open-Nebraska-Meetup/events/219759047/) - 
+  Lancaster County District Courthouse
+* [December 2014 JUSTICE Image Recovery](https://supremecourt.nebraska.gov/14239/december-2014-justice-image-recovery)
+* [Man takes state to trial over access to court records](http://journalstar.com/news/local/article_5afbc39a-f3dc-5edf-97f2-e95ee4901c1e.html)
+* [A key question in digital data legal challenge: Public records or programming code?](http://www.omaha.com/news/crime/a-key-question-in-digital-data-legal-challenge-public-records/article_4690a9b4-7180-5551-950a-c5d8f649b2f3.html)
+
 
 # <a name="prosector_impartiality"></a>Prosecutor Impartiality
 

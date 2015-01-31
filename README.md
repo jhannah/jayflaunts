@@ -2,3 +2,5 @@
 
 Public website.
 
+    jekyll serve
+
