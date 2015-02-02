@@ -66,6 +66,7 @@ who is patently interested in whatever the data shows, the data shows.
 * [December 2014 JUSTICE Image Recovery](https://supremecourt.nebraska.gov/14239/december-2014-justice-image-recovery)
 * [Man takes state to trial over access to court records](http://journalstar.com/news/local/article_5afbc39a-f3dc-5edf-97f2-e95ee4901c1e.html)
 * [A key question in digital data legal challenge: Public records or programming code?](http://www.omaha.com/news/crime/a-key-question-in-digital-data-legal-challenge-public-records/article_4690a9b4-7180-5551-950a-c5d8f649b2f3.html)
+* [Local View: Why does the Nebraska State Bar oppose judicial transparency?](http://journalstar.com/news/opinion/editorial/columnists/local-view-why-does-the-nebraska-state-bar-oppose-judicial/article_23668a1b-ce28-54b7-803f-f8949e6037bf.html)
 
 
 # <a name="prosector_impartiality"></a>Prosecutor Impartiality
