@@ -30,23 +30,6 @@ Can individuals with jobs and families and other interests make a dent over time
 the Omaha World-Herald. I write stories that uncover problems, advocate for the open web and 
 build apps that let people make the news their own.
 
-Projects from mattwynn.net:
-
-* [Omaha Crime Report](http://omahacrimereport.com/) - Data still daily batch? 
-Getting everything you want? I'm still surprised OPD doesn't have incident landing pages.
-* [Public pay](http://dataomaha.com/salaries) - any backlash for making the data easy to see?
-* [Prison scandal](http://dataomaha.com/prison) - inception story? 
-
-[Legistlative Bill 432](http://www.nebraskalegislature.gov/FloorDocs/104/PDF/Intro/LB432.pdf):
-
-* [Senator withdraws bill that unintentionally repeals citizens' public records rights](http://www.omaha.com/news/legislature/senator-withdraws-bill-that-unintentionally-repeals-citizens-public-records-rights/article_ae59958d-34e1-597a-b688-6576d46b8773.html#.VMvAGn8leHA.twitter)
-* "If you picture me reading this bill with a thoughtful face, you are incorrect. It makes me livid. 
-[tweet](https://twitter.com/mattwynn/status/558679098281574401)
-* Doesn't look so bad? "Well, may codify goofy practice of making data == PDFs. 
-Second, eliminates free inspection of records."
-
-Another tweet where I suspect I missed much of the critical context:
-
 * "The JustIN flap makes me wonder why taxpayers are ok with gigantic media relations staffs on public payrolls, but not a full-on news service"
 * Is that one the same as this one? "Armchair ethicists might like this: 
 [Gov hiring his campaign staffer as an adviser, and paying her with his own $](http://www.omaha.com/news/politics/questions-arise-after-gov-ricketts-uses-his-own-money-to/article_03b0a5dd-52f5-5581-9f7a-fff8df55e3ea.html)
