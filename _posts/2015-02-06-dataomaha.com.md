@@ -10,7 +10,8 @@ link: "https://dl.dropboxusercontent.com/u/244885/jay_flaunts/S0E2.mp3"
 
 <a href="{{site.dropbox_url}}/S0E2.mp3" target="_blank">S0E2.mp3</a> (1h 8m 66MB) 
 
-[Matt Wynn's personal homepage](http://mattwynn.net/) says: My name’s Matt. I’m a web developer and reporter with 
+
+[Hi there. My name's Matt Wynn.](http://mattwynn.net/) I’m a web developer and reporter with 
 the Omaha World-Herald. I write stories that uncover problems, advocate for the open web and 
 build apps that let people make the news their own.
 
