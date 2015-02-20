@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "S0E2: Dataomaha.com w/ Watt Wynn"
+title:  "S0E2: Dataomaha.com w/ Matt Wynn"
 date:   2015-02-06 13:27:34
 categories: 
 duration: 1:08:41 
