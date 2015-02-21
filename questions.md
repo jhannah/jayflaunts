@@ -7,32 +7,20 @@ permalink: /questions/
 Flushing out questions / notes in advance of interviews. 
 
 
-# <a name="on"></a>Open Nebraska
+# <a name="evil"></a>The Problem of Evil
 
-[Open Nebraska](http://opennebraska.io/) is a civic innovation organization serving the 
-citizens of the great state of Nebraska. Founded in 2012, our mission is to solve 
-community problems through civic application development, open data advocacy, and tech 
-education. We aim to drive innovation and community engagement in Nebraska by making 
-local information more accessible to the public.
+I love the [Drunk Ex-Pastors podcast](http://www.drunkexpastors.com/). 
+I'm extremely happy that in episode #30 at 1h 5m Christian gets angry about God sending
+people to hell. This outrage was entirely missing from episode #29 at 28m when you listened to 
+what Stephen Fry would say to God if he met him. Stephen Fry's angry "how dare you" challenge to
+God is exactly what I would say to God. Did you listen to the autrocities of nature Stephen Fry
+listed? Did you think about those? If God exists then it seems to me that 
+anger is exactly the correct response to the suffering of millions of innocent people. 
 
-* Why did you create Open Nebraska in 2012?
-* What's happening in 2015? 
-* Is wrangling legal documents somehow not the most frustrating thing ever? :)
-It seems like there are lots of nice people with good intentions doing their individual
-jobs in government, but engaging "the system" itself seems so very daunting? 
-Can individuals with jobs and families and other interests make a dent over time?
-* Do you need more help? What skill sets are you looking for? How can people get involved?
+Lucky for me I'm an atheist, so there is no God. So... problem solved. 
 
+Love the podcast. Thanks guys, keep it up. :)
 
-# <a name="wynn"></a>Matt Wynn
-
-[Matt Wynn's personal homepage](http://mattwynn.net/) says: My name’s Matt. I’m a web developer and reporter with 
-the Omaha World-Herald. I write stories that uncover problems, advocate for the open web and 
-build apps that let people make the news their own.
-
-* "The JustIN flap makes me wonder why taxpayers are ok with gigantic media relations staffs on public payrolls, but not a full-on news service"
-* Is that one the same as this one? "Armchair ethicists might like this: 
-[Gov hiring his campaign staffer as an adviser, and paying her with his own $](http://www.omaha.com/news/politics/questions-arise-after-gov-ricketts-uses-his-own-money-to/article_03b0a5dd-52f5-5581-9f7a-fff8df55e3ea.html)
 
 
 # <a name="fvs"></a>Friedman v. Steel - Nebraska Open Records Case
@@ -87,4 +75,31 @@ mean the system is broken?
 [death of Eric Garner](http://en.wikipedia.org/wiki/Death_of_Eric_Garner#Grand_jury)
 * ["Q: I want to file a complaint about a police officer of deputy sheriff. Can the District Attorney's Office help me?"](http://www.rivcoda.org/opencms/daoffice/commonquestions.html#complaint)
 
+
+# <a name="wynn"></a>Matt Wynn
+
+[Matt Wynn's personal homepage](http://mattwynn.net/) says: My name’s Matt. I’m a web developer and reporter with 
+the Omaha World-Herald. I write stories that uncover problems, advocate for the open web and 
+build apps that let people make the news their own.
+
+* "The JustIN flap makes me wonder why taxpayers are ok with gigantic media relations staffs on public payrolls, but not a full-on news service"
+* Is that one the same as this one? "Armchair ethicists might like this: 
+[Gov hiring his campaign staffer as an adviser, and paying her with his own $](http://www.omaha.com/news/politics/questions-arise-after-gov-ricketts-uses-his-own-money-to/article_03b0a5dd-52f5-5581-9f7a-fff8df55e3ea.html)
+
+
+# <a name="on"></a>Open Nebraska
+
+[Open Nebraska](http://opennebraska.io/) is a civic innovation organization serving the 
+citizens of the great state of Nebraska. Founded in 2012, our mission is to solve 
+community problems through civic application development, open data advocacy, and tech 
+education. We aim to drive innovation and community engagement in Nebraska by making 
+local information more accessible to the public.
+
+* Why did you create Open Nebraska in 2012?
+* What's happening in 2015? 
+* Is wrangling legal documents somehow not the most frustrating thing ever? :)
+It seems like there are lots of nice people with good intentions doing their individual
+jobs in government, but engaging "the system" itself seems so very daunting? 
+Can individuals with jobs and families and other interests make a dent over time?
+* Do you need more help? What skill sets are you looking for? How can people get involved?
 
