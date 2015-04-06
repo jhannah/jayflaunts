@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "S0E6: Law Enforcement"
+title:  "S0E6: Law Enforcement Controversies"
 date:   2015-03-05 13:27:34
 categories: 
 duration: 58:15
