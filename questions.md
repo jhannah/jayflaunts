@@ -22,6 +22,10 @@ Lucky for me I'm an atheist, so there is no God. So... problem solved.
 
 Love the podcast. Thanks guys, keep it up. :)
 
+<b>Update:</b> In #32 at 56m they play, respond to the voicemail I left them (above). 
+They straw-manned me a bit, but I appreciate them taking a stab at it. :) 
+I should probably find someone to talk through my actual position on this topic...
+
 
 # <a name="fvs"></a>Friedman v. Steel - Nebraska Open Records Case
 
