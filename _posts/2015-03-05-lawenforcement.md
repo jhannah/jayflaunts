@@ -14,7 +14,7 @@ Jay talks with a law enforcement professional about recent controversies
 including charges of racism in Ferguson Missouri and New York City, the 
 militarization of police, etc.
 
-My pre-interview notes:
+Jay's pre-interview notes:
 
 Recent news events have left me wondering:
 How do prosecutors, who work on the same team with the police all day every day,
