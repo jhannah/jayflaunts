@@ -8,11 +8,11 @@ length: 27980636
 link: "https://dl.dropboxusercontent.com/u/244885/jay_flaunts/006.mp3"
 ---
 
-<a href="{{site.dropbox_url}}/006.mp3" target="_blank">006.mp3</a> (58m 16MB) 
-
 Jay talks with a law enforcement professional about recent controversies 
 including charges of racism in Ferguson Missouri and New York City, the 
 militarization of police, etc.
+
+<a href="{{site.dropbox_url}}/006.mp3" target="_blank">006.mp3</a> (58m 16MB) 
 
 Jay's pre-interview notes:
 

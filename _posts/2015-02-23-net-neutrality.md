@@ -8,9 +8,9 @@ length: 17262697
 link: "https://dl.dropboxusercontent.com/u/244885/jay_flaunts/004.mp3"
 ---
 
-<a href="{{site.dropbox_url}}/004.mp3" target="_blank">004.mp3</a> (36m 17MB) 
-
 Dan Linder and Jay chat about Net Neutrality.
+
+<a href="{{site.dropbox_url}}/004.mp3" target="_blank">004.mp3</a> (36m 17MB) 
 
 * [Omaha Linux User Group (OLUG)](http://olug.org)
 * [Battle For the Net](http://battleforthenet.com) has a countdown to the FCC vote!

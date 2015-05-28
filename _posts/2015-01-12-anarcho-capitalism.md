@@ -8,12 +8,12 @@ length: 162809475
 link: "https://dl.dropboxusercontent.com/u/244885/jay_flaunts/000.mp3"
 ---
 
-<a href="{{site.dropbox_url}}/000.mp3" target="_blank">000.mp3</a> (2h 49m 163MB) 
-
 [Anarcho-capitalism](http://en.wikipedia.org/wiki/Anarcho-capitalism)
 (also referred to as free-market anarchism, market anarchism, private-property anarchism, libertarian anarchism) is a political philosophy which advocates the elimination of the state in favor of individual sovereignty, private property, and open markets.
 
 ... eliminate the state? Wha??
+
+<a href="{{site.dropbox_url}}/000.mp3" target="_blank">000.mp3</a> (2h 49m 163MB) 
 
 What's the point of government? What's it good at? Bad at?
 Is democracy all it's cracked up to be?
