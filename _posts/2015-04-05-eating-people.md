@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "S0E7: What's Wrong with Eating People? w/ David Hawley"
+title:  "7 What's Wrong with Eating People? w/ David Hawley"
 date:   2015-04-05 13:27:34
 categories: 
 duration: 44:12
 length: 21220178
-link: "https://dl.dropboxusercontent.com/u/244885/jay_flaunts/S0E7.mp3"
+link: "https://dl.dropboxusercontent.com/u/244885/jay_flaunts/007.mp3"
 ---
 
-<a href="{{site.dropbox_url}}/S0E7.mp3" target="_blank">S0E7.mp3</a> (44m 21MB) 
+<a href="{{site.dropbox_url}}/007.mp3" target="_blank">007.mp3</a> (44m 21MB) 
 
 Jay talks with [David Hawley](https://www.facebook.com/omahawley) about a book he found: 
 [What's Wrong With Eating People?](http://www.amazon.com/Whats-Wrong-With-Eating-People/dp/1851686207)

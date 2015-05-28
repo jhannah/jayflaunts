@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "S0E2: Dataomaha.com w/ Matt Wynn"
+title:  "2 Dataomaha.com w/ Matt Wynn"
 date:   2015-02-06 13:27:34
 categories: 
 duration: 1:08:41 
 length: 65932394
-link: "https://dl.dropboxusercontent.com/u/244885/jay_flaunts/S0E2.mp3"
+link: "https://dl.dropboxusercontent.com/u/244885/jay_flaunts/002.mp3"
 ---
 
-<a href="{{site.dropbox_url}}/S0E2.mp3" target="_blank">S0E2.mp3</a> (1h 8m 66MB) 
+<a href="{{site.dropbox_url}}/002.mp3" target="_blank">002.mp3</a> (1h 8m 66MB) 
 
 
 [Hi there. My name's Matt Wynn.](http://mattwynn.net/) I’m a web developer and reporter with 

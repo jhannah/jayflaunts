@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "S0E4: Net Neutrality w/ Dan Linder"
+title:  "4 Net Neutrality w/ Dan Linder"
 date:   2015-02-23 13:27:34
 categories: 
 duration: 35:58
 length: 17262697
-link: "https://dl.dropboxusercontent.com/u/244885/jay_flaunts/S0E4.mp3"
+link: "https://dl.dropboxusercontent.com/u/244885/jay_flaunts/004.mp3"
 ---
 
-<a href="{{site.dropbox_url}}/S0E4.mp3" target="_blank">S0E4.mp3</a> (36m 17MB) 
+<a href="{{site.dropbox_url}}/004.mp3" target="_blank">004.mp3</a> (36m 17MB) 
 
 Dan Linder and Jay chat about Net Neutrality.
 
