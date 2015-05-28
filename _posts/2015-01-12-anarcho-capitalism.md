@@ -4,7 +4,7 @@ title:  "0 Anarcho-capitalism w/ Alec Larsen"
 date:   2015-01-12 13:27:34
 categories:
 duration: 2:49:00 
-length: 162809475
+length: 81405237
 link: "https://dl.dropboxusercontent.com/u/244885/jay_flaunts/000.mp3"
 ---
 
@@ -13,7 +13,7 @@ link: "https://dl.dropboxusercontent.com/u/244885/jay_flaunts/000.mp3"
 
 ... eliminate the state? Wha??
 
-<a href="{{site.dropbox_url}}/000.mp3" target="_blank">000.mp3</a> (2h 49m 163MB) 
+<a href="{{site.dropbox_url}}/000.mp3" target="_blank">000.mp3</a> (2h 49m 81MB) 
 
 What's the point of government? What's it good at? Bad at?
 Is democracy all it's cracked up to be?
