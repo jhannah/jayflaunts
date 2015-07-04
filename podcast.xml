@@ -41,7 +41,7 @@ In January 2015 I bought a cool microphone. Let’s see if anybody will go “on
 				<guid>{{ post.link }}</guid>
 				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
 				<itunes:duration>{{ post.duration }}</itunes:duration>
-				<itunes:keywords>utalk,interview</itunes:keywords>
+				<itunes:keywords>talk,interview</itunes:keywords>
 				<itunes:explicit>yes</itunes:explicit>
 			</item>
 		{% endfor %}
