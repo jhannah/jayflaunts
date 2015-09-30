@@ -18,7 +18,8 @@ link: "https://dl.dropboxusercontent.com/u/244885/jay_flaunts/000.mp3"
 What's the point of government? What's it good at? Bad at?
 Is democracy all it's cracked up to be?
 
-Join Alec and Jay for a fascinating exploration of alternative governance. Or lack thereof. :)
+Join [Alec Larsen](https://twitter.com/anarchocurious) and Jay for a fascinating exploration of
+alternative governance. Or lack thereof. :)
 
 * [AnCap Omaha](http://www.meetup.com/AnCap-Omaha/) 
 * [NPR Planet Money podcast: Keynes Vs. Hayek](http://www.npr.org/blogs/money/2011/10/28/141802704/the-friday-podcast-keynes-vs-hayek)

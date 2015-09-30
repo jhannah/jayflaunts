@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "12 Prohibition Hate Mail w/ Dave and Alec"
+title:  "12 Prohibition hate mail w/ Dave Kerber and Alec Larsen"
 date:   2015-09-29 13:27:34
 categories: 
 duration: 2:13:35
@@ -8,8 +8,10 @@ length: 64120128
 link: "https://dl.dropboxusercontent.com/u/244885/jay_flaunts/012.mp3"
 ---
 
-In response to episode 11, [Dave Kerber](https://twitter.com/davidjkerber)
-and Alec Larsen join Jay to talk prohibition again, mostly focusing on guns. 
+In response to episode 11, 
+[Dave Kerber](https://twitter.com/davidjkerber) (of episode 9) and 
+[Alec Larsen](https://twitter.com/anarchocurious) (of episode 0) 
+join Jay to talk prohibition again, mostly focusing on guns. 
 Is governmental prohibition of anything ever a good thing?
 
 <a href="{{site.dropbox_url}}/010.mp3" target="_blank">012.mp3</a> (2h 14m 64MB) 
