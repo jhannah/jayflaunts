@@ -14,7 +14,7 @@ I'm extremely happy that in episode #30 at 1h 5m Christian gets angry about God 
 people to hell. This outrage was entirely missing from episode #29 at 28m when you listened to 
 what Stephen Fry would say to God if he met him. 
 [Stephen Fry's angry "how dare you" challenge to God](https://www.youtube.com/watch?v=-suvkwNYSQo)
-is exactly what I would say to God. Did you listen to the autrocities of nature Stephen Fry
+is exactly what I would say to God. Did you listen to the atrocities of nature Stephen Fry
 listed? Did you think about those? If God exists then it seems to me that 
 anger is exactly the correct response to the suffering of millions of innocent people. 
 
