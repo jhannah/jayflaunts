@@ -5,6 +5,7 @@
   {% assign long_title  = site.title %}
   {% assign short_title = site.title %}
 {% endif %}
+{% assign this_url = page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
 <head>
 
     <meta charset="utf-8">
@@ -13,10 +14,11 @@
 
     <title>{{ long_title }}</title>
     <meta name="description" content="{{ site.description }}" />
+    <meta property="og:url" content="{{ this_url }}" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="{{ short_title }}" />
 	<meta property="og:description" content="{{ site.description }}" />
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}" />
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+    <link rel="canonical" href="{{ this_url }}" />
 </head>
