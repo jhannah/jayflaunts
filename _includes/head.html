@@ -1,4 +1,8 @@
-{% if page.title %}{{ assign this_title = page.title | append: ' - ' | append: site.title }}{% else %}{{ assign this_title = site.title }}{% endif %}
+{% if page.title %}
+  {% assign this_title = page.title | append: ' - ' | append: site.title %}
+{% else %}
+  {% assign this_title = site.title %}
+{% endif %}
 <head>
 
     <meta charset="utf-8">
