@@ -1,7 +1,9 @@
 {% if page.title %}
-  {% assign this_title = page.title | append: ' - ' | append: site.title %}
+  {% assign long_title  = page.title | append: ' - ' | append: site.title %}
+  {% assign short_title = page.title %}
 {% else %}
-  {% assign this_title = site.title %}
+  {% assign long_title  = site.title %}
+  {% assign short_title = site.title %}
 {% endif %}
 <head>
 
@@ -9,11 +11,11 @@
     <meta name="viewport" content="width=device-width initial-scale=1" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <title>{{ long_title }}</title>
     <meta name="description" content="{{ site.description }}" />
 	<meta property="og:url" content="http://jhannah.github.io/jayflaunts/" />
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="{{ this_title }}" />
+	<meta property="og:title" content="{{ short_title }}" />
 	<meta property="og:description" content="{{ site.description }}" />
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}" />
