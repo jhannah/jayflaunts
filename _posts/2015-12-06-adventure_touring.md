@@ -24,3 +24,7 @@ Recommended reading:
 * Obsessions Die Hard, Motorcycling the Pan American Highway's Jungle Gap by Ed Culberson
 * Helge Pedersen claims to have ridden through the Darien Gap
 
+Jay referred several times to:
+
+* Two Wheels Through Terror, Diary of a South American Motorcycle Odyssey by Glen Heggstad
+
