@@ -16,11 +16,15 @@ Let's see if anybody will go "on the record" with me. And if anyone wants to lis
 
 <img src="{{site.dropbox_url}}/mic.jpg" class="rcorners">
 
-Lacking any art (or ideas for art) for this podcast, I set this as the Twitter image:
+I commissioned my awesome friends [Cara](https://twitter.com/CaraHeacock) and
+[Michaela](https://twitter.com/DreamingAlyce) to whip up this logo for the podcast:
+
+<img src="{{site.dropbox_url}}/logo.jpg" class="rcorners">
+
+For no reason at all, here's me on a fishing boat in Indonesia in 2014 
+[scuba diving my grandpa's WWII ship](http://usshoustondive.com). I told you 
+I have too many hobbies. 
 
 <img src="{{site.dropbox_url}}/jay.jpg" class="rcorners">
 
-That's me on a fishing boat in Indonesia in 2014 
-[scuba diving my grandpa's WWII ship](http://usshoustondive.com). I told you 
-I have too many hobbies. 
 
