@@ -26,7 +26,7 @@ In January 2015 I bought a cool microphone. Let’s see if anybody will go “on
 			<itunes:name>Jay Hannah</itunes:name>
 			<itunes:email>jay+flaunts@jays.net</itunes:email>
 		</itunes:owner>
-		<itunes:image href="{{site.dropbox_url}}/logo.jpg" />
+		<itunes:image href="{{site.dropbox_url}}/logo_dammit_itunes.jpg" />
 		<itunes:category text="Society &amp; Culture" />
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:new-feed-url>http://jhannah.github.io/jayflaunts/podcast.xml</itunes:new-feed-url>
@@ -36,7 +36,7 @@ In January 2015 I bought a cool microphone. Let’s see if anybody will go “on
 				<itunes:author>Jay Hannah</itunes:author>
 				<itunes:subtitle>{{ post.title }}</itunes:subtitle>
 				<itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
-				<itunes:image href="{{site.dropbox_url}}/logo_dammit_itunes.jpg" />
+				<itunes:image href="{{site.dropbox_url}}/logo.jpg" />
 				<enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/x-m4a" />
 				<guid>{{ post.link }}</guid>
 				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
