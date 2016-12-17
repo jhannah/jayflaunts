@@ -3,9 +3,9 @@ layout: post
 title:  "17 The Farnam Prophet w/ Phil Brown"
 date:   2016-12-09 20:27:34
 categories: 
-duration: 42:03
-length: 20185124
-link: "https://dl.dropboxusercontent.com/u/244885/jay_flaunts/016.mp3"
+duration: 42:03????????????
+length: 20185124??????????
+link: "https://dl.dropboxusercontent.com/u/244885/jay_flaunts/017.mp3"
 ---
 
 Phil Brown writes [The Farnam Prophet](https://medium.com/the-farnam-prophet), 
@@ -20,4 +20,4 @@ Phil and Jay talk about a wide range of topics:
 * [Heath Mello for Omaha Mayor](https://heathmello.com/)
 * [Rethinking the Restaurant Tax](https://medium.com/the-farnam-prophet/rethinking-the-restaurant-tax-d17fa29d98f3#.3bd64jk1w)
 
-<a href="{{site.dropbox_url}}/016.mp3" target="_blank">016.mp3</a> (42m 20MB) 
+<a href="{{site.dropbox_url}}/017.mp3" target="_blank">017.mp3</a> (?????????????m ????????MB) 
