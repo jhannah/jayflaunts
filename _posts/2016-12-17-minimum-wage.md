@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "18 Minimum Wage w/ Dave Hawley"
+title:  "18 Minimum Wage w/ David Hawley"
 date:   2016-12-17 20:27:34
 categories: 
 duration: 48:04
