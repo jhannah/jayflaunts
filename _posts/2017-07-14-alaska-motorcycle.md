@@ -9,8 +9,7 @@ link: "https://dl.dropboxusercontent.com/u/244885/jay_flaunts/022.mp3"
 ---
 
 Don Herfert tells us about riding his motorcycle from California to Alaska and back in 2015.
-He also tells us about his 17 month road trip years ago when he left his home in Arizona 
-and "got lost."
+Also, years ago, he left his home in Arizona on his bike and "got lost." For 17 months.
 
 I hope to be this alive when I'm in my 70s.  :)
 
