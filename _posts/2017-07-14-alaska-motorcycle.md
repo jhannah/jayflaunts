@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "22 Alaska on a Motorcyle w/ Don Herfert
+title:  "22 Alaska on a Motorcyle w/ Don Herfert"
 date:   2017-07-14 13:00:34
 categories: 
 duration: 56:59
