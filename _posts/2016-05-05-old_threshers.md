@@ -5,7 +5,7 @@ date:   2016-05-05 13:27:34
 categories: 
 duration: 26:58
 length: 12940402
-link: "https://dl.dropboxusercontent.com/u/244885/jay_flaunts/015.mp3"
+link: "https://s3.amazonaws.com/jayflaunts.jays.net/015.mp3"
 ---
 
 Jay's first week living in an RV full time, camping at the
@@ -22,7 +22,7 @@ Jay's parents and grandparents are from Mt. Pleasant.
 He has many years of fond memories attending the Old Threshers reunion with them,
 and was very excited to spend a week on the grounds. 
 
-<a href="{{site.dropbox_url}}/015.mp3" target="_blank">015.mp3</a> (27m 13MB) 
+<a href="{{site.storage_url}}/015.mp3" target="_blank">015.mp3</a> (27m 13MB) 
 
 Links:
 

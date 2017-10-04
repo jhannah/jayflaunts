@@ -5,14 +5,14 @@ date:   2015-12-06 13:27:34
 categories: 
 duration: 1:36:11
 length: 46166062
-link: "https://dl.dropboxusercontent.com/u/244885/jay_flaunts/013.mp3"
+link: "https://s3.amazonaws.com/jayflaunts.jays.net/013.mp3"
 ---
 
 Ever ridden your motorcycle from Nebraska to the northern tip of Alaska
 and the southern tip of South America? Frank Tabor has. Listen in amazement
 to a few of his stories of thousands of miles on two wheels. 
 
-<a href="{{site.dropbox_url}}/013.mp3" target="_blank">013.mp3</a> (1h 36m 46MB) 
+<a href="{{site.storage_url}}/013.mp3" target="_blank">013.mp3</a> (1h 36m 46MB) 
 
 Recommended reading:
 

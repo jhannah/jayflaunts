@@ -5,7 +5,7 @@ date:   2016-12-17 20:27:34
 categories: 
 duration: 48:04
 length: 23075898
-link: "https://dl.dropboxusercontent.com/u/244885/jay_flaunts/018.mp3"
+link: "https://s3.amazonaws.com/jayflaunts.jays.net/018.mp3"
 ---
 
 Jay and Dave talk about minimum wage and the future of work. As jobs like drivers
@@ -15,7 +15,7 @@ What form should that take?
 Univeral Basic Income, Living Wage and other terms are used, 
 probably incorrectly.
 
-<a href="{{site.dropbox_url}}/018.mp3" target="_blank">018.mp3</a> (48m 23MB) 
+<a href="{{site.storage_url}}/018.mp3" target="_blank">018.mp3</a> (48m 23MB) 
 
 Embedded below, 3 videos we referenced in the discussion.
 

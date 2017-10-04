@@ -5,14 +5,14 @@ date:   2015-02-06 13:27:34
 categories: 
 duration: 1:08:41 
 length: 65932394
-link: "https://dl.dropboxusercontent.com/u/244885/jay_flaunts/002.mp3"
+link: "https://s3.amazonaws.com/jayflaunts.jays.net/002.mp3"
 ---
 
 [Hi there. My name's Matt Wynn.](http://mattwynn.net/) I’m a web developer and reporter with 
 the Omaha World-Herald. I write stories that uncover problems, advocate for the open web and 
 build apps that let people make the news their own.
 
-<a href="{{site.dropbox_url}}/002.mp3" target="_blank">002.mp3</a> (1h 8m 66MB) 
+<a href="{{site.storage_url}}/002.mp3" target="_blank">002.mp3</a> (1h 8m 66MB) 
 
 Projects:
 

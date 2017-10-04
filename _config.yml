@@ -13,4 +13,4 @@ github_username:  jhannah
 markdown: kramdown
 
 # Jay's custom stuff
-dropbox_url: https://dl.dropboxusercontent.com/u/244885/jay_flaunts
+storage_url: https://s3.amazonaws.com/jayflaunts.jays.net

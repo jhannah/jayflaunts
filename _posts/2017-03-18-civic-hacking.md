@@ -5,7 +5,7 @@ date:   2017-03-18 20:27:34
 categories: 
 duration: 1:14:14
 length: 35635174
-link: "https://dl.dropboxusercontent.com/u/244885/jay_flaunts/019.mp3"
+link: "https://s3.amazonaws.com/jayflaunts.jays.net/019.mp3"
 ---
 
 <a href="https://twitter.com/RebeccaStavick">Rebecca Stavick</a>, private citizen, tells the genesis story of the civic hacking 
@@ -16,7 +16,7 @@ administration 2018 budget blueprint</a>.
 Later Rebecca tells her story about flying out to Washington DC with her mother
 for the Women's March on Washington.
 
-<a href="{{site.dropbox_url}}/019.mp3" target="_blank">019.mp3</a> (1h14m 36MB) 
+<a href="{{site.storage_url}}/019.mp3" target="_blank">019.mp3</a> (1h14m 36MB) 
 
 * Apologies to [Lora Mae Frecks](https://www.unomaha.edu/college-of-public-affairs-and-community-service/public-administration/academics/doctoral-student-profiles/lora-mae-frecks.php) who did all the data gathering work for the Open/Nebraska localboards project. 10m into this podcast, Jay incorrectly cites credit to the wrong person. Jay is an idiot and you should not listen to his blathering. :) 
 * <a href="https://www.hifromtheotherside.com/">Hi From The Other Side</a>
