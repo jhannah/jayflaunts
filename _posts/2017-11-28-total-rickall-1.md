@@ -14,6 +14,7 @@ We enthusiastically recommend that game and
 [Rick and Morty S2E4](http://www.imdb.com/title/tt4832262/?ref_=ttep_ep4), from which it came.
 
 In the intro Brad explains why posting this episode at all is pretty pointless. 
+And why the Nintendo Switch Zelda: Breath of the Wild stamina bar is total BS.
 
 Who knows why anyone enjoys anything on the Internet? Mysteries abound. The Dude abides.
 
