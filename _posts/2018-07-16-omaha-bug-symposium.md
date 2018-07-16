@@ -8,8 +8,6 @@ length: 88645748
 link: "https://s3.amazonaws.com/jayflaunts.jays.net/023.mp3"
 ---
 
-Omaha Bug Symposium w/ Dave Crane and Andy Matz
-
 You need more irreverant entymology in your life!
 
 Next event: This Saturday, July 21-22 2018 it's Omaha Moth Night (and National Moth Week) at
