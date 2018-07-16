@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Omaha Bug Symposium w/ Dave Crane and Andy Matz"
+title:  "23 Omaha Bug Symposium w/ Dave Crane and Andy Matz"
 date:   2018-07-16 02:00:34
 categories: 
 duration: 1:36:22
