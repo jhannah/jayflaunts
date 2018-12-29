@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "26 Justin Hopkins interviews Jay"
-date:   2018-11-29 07:30:34
+date:   2018-12-29 07:30:34
 categories: 
 duration: 2:14:37
 length: 75910625
