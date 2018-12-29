@@ -15,7 +15,7 @@ episode. About what? About Jay. dum dum DA DUUUUUM!!!!
 Listen as Justin hoists Jay on his own petard. Which is especially uncomfortable since Jay had
 his petard surgically enhanced mere days ago and remains on pain management medicine.
 
-Listen as Justin demands answers about Jay's dark and sorted past, dropping out of universities
+Listen as Justin demands answers about Jay's dark and sordid past, dropping out of universities
 just to look cool and fleeing South Dakota after uncomfortable interviews with law enforcement.
 
 Listen as Jay stammers through lame excuses for his ongoing heresy and blasphemes against the current
