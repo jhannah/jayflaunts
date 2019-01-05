@@ -24,6 +24,8 @@ American president.
 <a href="{{site.storage_url}}/026.mp3" target="_blank">026.mp3</a> (2h 15m 76MB) 
 
 Links:
+* [Global Shopping Club, Inc.](https://web.archive.org/web/19961227174742/http://www.gsci.com:80/) in 1996
+* [ONSALE, Inc.](https://web.archive.org/web/19970710191558/http://www.onsale.com:80/) was our fierce rival in 1997
 * [For $19.95 you can rent this motherfucker](https://www.youtube.com/watch?v=likoxH4loEA)
 
 
