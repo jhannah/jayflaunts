@@ -5,7 +5,7 @@ date:   2019-01-21 13:20:34
 categories: 
 duration: 2:41:27
 length: 94983606
-link: "https://s3.amazonaws.com/jayflaunts.jays.net/dungeon_world_2.mp3"
+link: "https://s3.amazonaws.com/jayflaunts.jays.net/dungeon_world/002.mp3"
 ---
 
 Dungeon World, episode 2. 4 friends sitting around a table. 1 microphone. Our imaginations.
@@ -19,10 +19,10 @@ If you like this episode please [retweet us on Twitter](https://twitter.com/jayf
 and consider [giving us $1 a month on Patreon](https://www.patreon.com/jayflaunts)
 so we can buy some snacks. :)
 
-<a href="{{site.storage_url}}/dungeon_world_2.mp3" target="_blank">dungeon_world_2.mp3</a> (2h 41m 95MB) 
+<a href="{{site.storage_url}}/dungeon_world/002.mp3" target="_blank">dungeon_world/002.mp3</a> (2h 41m 95MB) 
 
 Links:
 * [Dungeon World](http://www.dungeon-world.com)
 
-<img src="{{site.storage_url}}/dungeon_world.jpg" />
+<img src="{{site.storage_url}}/dungeon_world/book.jpg" />
 
