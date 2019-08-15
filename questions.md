@@ -7,6 +7,47 @@ permalink: /questions/
 Flushing out questions / notes in advance of interviews. 
 
 
+# <a name="whiteness"></a>Whiteness w/ Nick Diaz
+
+Nick: If you wanna discuss whiteness, though, that's my forte lol
+Jay: the world needs more podcast episodes of two white dudes talking about whiteness 🙂
+Nick: Lol, you're being ironic, but it genuinely does 😛
+The thing white folks can do is genuinely deconstruct their own whiteness rather than provide blueprints to marginalized communities, which is so often the case. White folks worry about whiteness, black folks worry about blackness, etc., etc.
+*provide blueprints for marginalized communities to "free themselves," which is counter to solidarity
+Jay: I'm game if you want to. Now I'M very uncomfortable 😉
+Nick: Hahaha, yes, all shall cater to Nick's comfort level. Let it be so.
+Jay: "whiteness" has no meaning without the context of non-whites, where my ignorance is nearly total
+I struggle to think of anything interesting I have to say on the subject
+Nick: Oh, yeah, Toni Morrison (RIP) wrote a whole book where the thesis was basically: white folks use blackness to make themselves superior. All races are constructed to provide hierarchy.
+Same thing with species. It's the same system.
+But, don't worry about contriving a podcast episode on my behalf, lol
+Jay: "shut up you stupid rich white male" is the leading voice in my head + cis
+^^^ I don't think I do that, but it does enter my brain. My blinders are poweful, I assume
+Nick: How do you mean?
+Like, you don't do the thing Morrison wrote about?
+Jay: ha. we can do a podcast where I struggle to explain myself on this topic 🙂
+Nick: Lol, just say the word XD
+
+
+# <a name="uncivil"></a>Uncivil Disobedience
+
+[HI-PHI NATION S3E8 Uncivil Disobedience](https://hiphination.org/season-3-episodes/s3-episode-8-uncivil-disobedience/)
+
+In Australia, vegan and animal liberation activism has recently become intense and disruptive, invading farms, restaurants, and city centers. They’re doing everything from rescuing animals to blocking traffic, and occupying steakhouses. Some argue that these new activists are needlessly victimizing innocent farmers, business owners, and consumers. Others argue that the activists are only doing what’s necessary to stand up for the innocent victims of farmers, business owners, and consumers.
+
+Nick: Listened to the Hi-Phi pidcast. And boy do I not like Peter Singer now.
+Jay: oh? oooo can I interview you about that for Jay Flaunts His Ignorance? I'll need to re-listen to it
+I need a transcript so I can jump to the Singer bits ah. 39:40
+this would make a great episode -- you and me talking through this
+Nick: Woof, idk if I've got the gumption to critique Singer on a public forum, haha
+I can't really articulate my counterargument at the moment. Beyond not liking his materialism.
+I feel like I'd need to do a lot of research and thinking before I'd feel comfortable offering a public comment, and I don't have the capacity for that atm
+Jay: ah. Flaunting My Ignorance is my brand, so prep sounds like work. no way José!! 😉
+Nick: Hahaha, it is in the name of the podcast.
+But, for my part (and this Academia Nick talking), I don't think I'd be comfortable deconstructing philosophical ideas that I'm not yet fluent in.
+Once I learn more about nonviolence, noncooperation, and also once I have more solidified theories about the applications of postmodernism to the anticapitalist struggle (I took great umbrage with Singer's analysis that animal exploitation occurs within a Soviet context), I'd feel more confident to speak about the topic.
+
+
 # <a name="evil"></a>The Problem of Evil
 
 I love the [Drunk Ex-Pastors podcast](http://www.drunkexpastors.com/). 
@@ -43,31 +84,4 @@ who is patently interested in whatever the data shows, the data shows.
 * [A key question in digital data legal challenge: Public records or programming code?](http://www.omaha.com/news/crime/a-key-question-in-digital-data-legal-challenge-public-records/article_4690a9b4-7180-5551-950a-c5d8f649b2f3.html)
 * [Local View: Why does the Nebraska State Bar oppose judicial transparency?](http://journalstar.com/news/opinion/editorial/columnists/local-view-why-does-the-nebraska-state-bar-oppose-judicial/article_23668a1b-ce28-54b7-803f-f8949e6037bf.html)
 
-
-# <a name="wynn"></a>Matt Wynn
-
-[Matt Wynn's personal homepage](http://mattwynn.net/) says: My name’s Matt. I’m a web developer and reporter with 
-the Omaha World-Herald. I write stories that uncover problems, advocate for the open web and 
-build apps that let people make the news their own.
-
-* "The JustIN flap makes me wonder why taxpayers are ok with gigantic media relations staffs on public payrolls, but not a full-on news service"
-* Is that one the same as this one? "Armchair ethicists might like this: 
-[Gov hiring his campaign staffer as an adviser, and paying her with his own $](http://www.omaha.com/news/politics/questions-arise-after-gov-ricketts-uses-his-own-money-to/article_03b0a5dd-52f5-5581-9f7a-fff8df55e3ea.html)
-
-
-# <a name="on"></a>Open Nebraska
-
-[Open Nebraska](http://opennebraska.io/) is a civic innovation organization serving the 
-citizens of the great state of Nebraska. Founded in 2012, our mission is to solve 
-community problems through civic application development, open data advocacy, and tech 
-education. We aim to drive innovation and community engagement in Nebraska by making 
-local information more accessible to the public.
-
-* Why did you create Open Nebraska in 2012?
-* What's happening in 2015? 
-* Is wrangling legal documents somehow not the most frustrating thing ever? :)
-It seems like there are lots of nice people with good intentions doing their individual
-jobs in government, but engaging "the system" itself seems so very daunting? 
-Can individuals with jobs and families and other interests make a dent over time?
-* Do you need more help? What skill sets are you looking for? How can people get involved?
 
