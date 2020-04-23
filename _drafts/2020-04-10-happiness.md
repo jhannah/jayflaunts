@@ -41,4 +41,4 @@ podcast by Robert Evans
 * 2h 57m: [Monty Python: Every sperm is sacred](https://www.youtube.com/watch?v=bzVHjg3AqIQ)
 
 An essay Nick wrote:
-<img src="{{site.storage_url}}/between.us.purple.png">
+<img src="{{site.storage_url}}/e27.between.us.purple.png">
