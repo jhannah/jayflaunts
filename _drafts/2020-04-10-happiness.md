@@ -37,5 +37,8 @@ podcast with Josh Clark
 * 1h 52m: [Young Lords (Puerto Rico)](https://en.wikipedia.org/wiki/Young_Lords)
 * 2h 47m: [It Could Happen Here](https://www.iheart.com/podcast/1119-it-could-happen-here-30717896/)
 podcast by Robert Evans
+* 2h 54m: [Numbers Chapter 5 verse 20](https://www.biblegateway.com/passage/?search=Numbers+5%3A20-22&version=NIV)
 * 2h 57m: [Monty Python: Every sperm is sacred](https://www.youtube.com/watch?v=bzVHjg3AqIQ)
 
+An essay Nick wrote:
+<img src="{{site.storage_url}}/between.us.purple.png">
