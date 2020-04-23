@@ -20,6 +20,7 @@ so we can waste your money instead of our own. :)
 Links:
 * 0m: Musical intro by [Skytrekg](http://twitch.tv/skytrekg)! Click to follow him on Twitch! An amazing
 traditional (oil, guache, etc) artist, guitarist, and singer.
+* 10m: Non-musical interruption by [Skatmaker](http://twitch.tv/skatmaker)! Click to follow him on Twitch!
 * 23m: [Braiding Sweetgrass](https://www.amazon.com/Braiding-Sweetgrass-Indigenous-Scientific-Knowledge/dp/1571313567): Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants by Robin Wall Kimmerer
 * 27m: [Hungry for Peace](https://www.amazon.com/Hungry-Peace-Help-Poverty-Bombs/dp/1937276066)
 How You Can Help End Poverty and War with Food Not Bombs
@@ -36,5 +37,5 @@ podcast with Josh Clark
 * 1h 52m: [Young Lords (Puerto Rico)](https://en.wikipedia.org/wiki/Young_Lords)
 * 2h 47m: [It Could Happen Here](https://www.iheart.com/podcast/1119-it-could-happen-here-30717896/)
 podcast by Robert Evans
-
+* 2h 57m: [Monty Python: Every sperm is sacred](https://www.youtube.com/watch?v=bzVHjg3AqIQ)
 
