@@ -3,8 +3,8 @@ layout: post
 title:  "27 Happiness is a Cult w/ Nick Diaz"
 date:   2020-04-10 07:20:34
 categories: 
-duration: 3:36:21
-length: 129944875
+duration: 3:01:10
+length: 87970222
 link: "https://s3.amazonaws.com/jayflaunts.jays.net/027.mp3"
 ---
 
@@ -15,7 +15,7 @@ If you like this episode please [retweet us on Twitter](https://twitter.com/jayf
 and consider [giving us $1 a month on Patreon](https://www.patreon.com/jayflaunts)
 so we can waste your money instead of our own. :)
 
-<a href="{{site.storage_url}}/027.mp3" target="_blank">027.mp3</a> (3h 36m 130MB) 
+<a href="{{site.storage_url}}/027.mp3" target="_blank">027.mp3</a> (3h 1m 88MB) 
 
 Links:
 * 0m: Musical intro by [Skytrekg](http://twitch.tv/skytrekg)! Click to follow him on Twitch! An amazing
@@ -41,4 +41,5 @@ podcast by Robert Evans
 * 2h 57m: [Monty Python: Every sperm is sacred](https://www.youtube.com/watch?v=bzVHjg3AqIQ)
 
 An essay Nick wrote:
-<img src="{{site.storage_url}}/e27.between.us.purple.png">
+<img src="{{site.storage_url}}/027.between.us.purple.png">
+
