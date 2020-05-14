@@ -27,17 +27,18 @@ How You Can Help End Poverty and War with Food Not Bombs
 by Keith McHenry
 * 43m: [Monty Python's The Life of Brian](https://www.youtube.com/watch?v=deDlab6vFgg) - 
 lost shoe / follow the gourd / doesn't want to start a cult scene
-* 52m: Jim W Corder 
+* 47m: [The Liturgists podcast](https://theliturgists.com/podcast)
+* 51m: Jim W Corder
 [Language, Violence, and Nonviolence Research Group](http://lvnrg.vtcath.org/?p=116)
 at Virginia Tech
-* 59m: [Diane Di Prima - Revolutionary Letter #32](https://becomingwhatever.tumblr.com/post/174889023635/diane-di-prima-revolutionary-letter-32)
-* 1h 25m: [The End Of The World](https://www.iheart.com/podcast/105-the-end-of-the-world-with-30006093/)
+* 58m: [Diane Di Prima - Revolutionary Letter #32](https://becomingwhatever.tumblr.com/post/174889023635/diane-di-prima-revolutionary-letter-32)
+* 1h 24m: [The End Of The World](https://www.iheart.com/podcast/105-the-end-of-the-world-with-30006093/)
 podcast with Josh Clark
-* 1h 49m: [Louise Erdrich](https://www.harpercollins.com/author/cr-100712/louise-erdrich/)
+* 1h 48m: [Louise Erdrich](https://www.harpercollins.com/author/cr-100712/louise-erdrich/)
 * 1h 52m: [Young Lords (Puerto Rico)](https://en.wikipedia.org/wiki/Young_Lords)
 * 2h 47m: [It Could Happen Here](https://www.iheart.com/podcast/1119-it-could-happen-here-30717896/)
 podcast by Robert Evans
-* 2h 54m: [Numbers Chapter 5 verse 20](https://www.biblegateway.com/passage/?search=Numbers+5%3A20-22&version=NIV)
+* 2h 53m: [Numbers Chapter 5 verse 20](https://www.biblegateway.com/passage/?search=Numbers+5%3A20-22&version=NIV)
 * 2h 57m: [Monty Python: Every sperm is sacred](https://www.youtube.com/watch?v=bzVHjg3AqIQ)
 
 An essay Nick wrote:
