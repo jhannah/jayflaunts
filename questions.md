@@ -12,14 +12,29 @@ If I ask a question you don't want to answer, no problem.
 We can talk as long or as briefly as you want. I've done 15 minutes, I've done 3.5 hours. It's completely up to you.
 We can cut whatever parts of the recording you want, just let me know.
 
-That said, people ask me for outlines of what I want to talk about, so this page serves that function. A rough guide of
-my thoughts / questions that I'll probably ask you unless you don't want to talk about whatever I list here. 
+That said, people ask me for outlines of what I want to talk about, so hopefully this page serves that function.
+A rough sketch of my thoughts / questions I'll probably ask. 
 
 # <a name="ADA"></a>Crypto currencies w/ Alex, ADA NASEC mining pool
 
+* I thought I'd start with an extremely brief intro for non-crypto people, jump in anytime:
+** What alt coins are, how I found out ADA (Cardano) exists last week: DOGE -> BTC -> ADA
+** Why I love PoS coins (I started in Blackcoin years ago).
+* Me telling people to go sub to your YouTube channel, and specifically why I love 
 [Should you start a Cardano Stake Pool in 2021?](https://www.youtube.com/watch?v=HzRdluc5iSw)
-
-
+** I don't want you to repeat yourself, I will encourage them to go watch your videos. :)
+** [Small pool graph](https://twitter.com/nierop_pieter/status/1361357344219758597) for the show notes.
+** What feedback have you gotten from that video? Has it drawn a bunch of interest to NASEC? 200K yesterday was huge, yes? :)
+** You fixed [Daedalus Wallet](daedaluswallet.io) NASEC listing yesterday?
+* What are you most excited about in the Cardano pipeline?
+* I'm super excited about anything that helps developing nations make money / contracts easier. Know anything about those?
+** My understanding: Developing countries use a ton of SMS-based payments via their cell providers.
+*** Yoroi wallet is slick!
+** My story about BTC ATMs and Haiti remittances.
+** I'll send people to [Charles Hoskinson's YouTube](https://www.youtube.com/channel/UCiJiqEvUZxT6isIaXK7RXTg) for his Africa project updates. 
+* Do UK taxes work the same as in the USA? (Here we pay capital gains taxes on any increases when we pull back to USD. In our annual tax filings.)
+* Smart contracts: I don't understand how they can actually interface with the real world.
+* Anything you want to talk about?
 
 # <a name="whiteness"></a>Whiteness w/ Nick Diaz
 
