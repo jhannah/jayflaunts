@@ -40,6 +40,7 @@ A rough sketch of my thoughts / questions I'll probably ask.
   Is VAT relevant? Is Brexit relevant? Brexit business impacts?
 * Smart contracts: I don't understand how they can actually interface with the real world.
 * ETH Tokens: Big business? wadu-hek? All-electronic trading cards and cats and stuff? Fortnite skins?
+* Your thoughts on hardware wallets? 
 * If ADA didn't exist, what else in crypto is interesting?
 * If crypto currency didn't exist, what else is interesting?
 * Anything you want to talk about?
