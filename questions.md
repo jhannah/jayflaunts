@@ -6,8 +6,8 @@ permalink: /questions/
 
 Flushing out questions / notes in advance of interviews. 
 
-My interviews are extremely informal. You don't need to prep anything. Feel free to interrupt me anytime. 
-We don't need to stick to any outline. We can talk about whatever you want to talk about.
+My interviews are extremely informal. You don't need to prep anything. Please interrupt me.
+We don't need to stick to any outline. We can talk about whatever you want.
 If I ask a question you don't want to answer, no problem. 
 We can talk as long or as briefly as you want. I've done 15 minutes, I've done 3.5 hours. It's completely up to you.
 We can cut whatever parts of the recording you want, just let me know.
@@ -18,23 +18,37 @@ A rough sketch of my thoughts / questions I'll probably ask.
 # <a name="ADA"></a>Crypto currencies w/ Alex, ADA NASEC mining pool
 
 * I thought I'd start with an extremely brief intro for non-crypto people, jump in anytime:
-** What alt coins are, how I found out ADA (Cardano) exists last week: DOGE -> BTC -> ADA
-** Why I love PoS coins (I started in Blackcoin years ago).
+  * What alt coins are, how I found out ADA (Cardano) exists last week: DOGE -> BTC -> ADA
+  * Why I love PoS coins (I started in Blackcoin years ago).
 * Me telling people to go sub to your YouTube channel, and specifically why I love 
 [Should you start a Cardano Stake Pool in 2021?](https://www.youtube.com/watch?v=HzRdluc5iSw)
-** I don't want you to repeat yourself, I will encourage them to go watch your videos. :)
-** [Small pool graph](https://twitter.com/nierop_pieter/status/1361357344219758597) for the show notes.
-** What feedback have you gotten from that video? Has it drawn a bunch of interest to NASEC? 200K yesterday was huge, yes? :)
-** You fixed [Daedalus Wallet](daedaluswallet.io) NASEC listing yesterday?
+  * I don't want you to repeat yourself, I will encourage them to go watch your videos. :)
+  * [Small pool graph](https://twitter.com/nierop_pieter/status/1361357344219758597) for the show notes.
+  * What feedback have you gotten from that video? Has it drawn a bunch of interest to NASEC? 200K yesterday was huge, yes? :)
+  * You fixed [Daedalus Wallet](daedaluswallet.io) NASEC listing yesterday?
+  * You help a ton of newbs (like me) in Telegram. How do you find the patience, time?
+* I love your realism / no hype. What made you decide to start on YouTube? Is your tone a conscious choice you made to buck the
+  "TO THE MOON" hype?
 * What are you most excited about in the Cardano pipeline?
 * I'm super excited about anything that helps developing nations make money / contracts easier. Know anything about those?
-** My understanding: Developing countries use a ton of SMS-based payments via their cell providers.
-*** Yoroi wallet is slick!
-** My story about BTC ATMs and Haiti remittances.
-** I'll send people to [Charles Hoskinson's YouTube](https://www.youtube.com/channel/UCiJiqEvUZxT6isIaXK7RXTg) for his Africa project updates. 
-* Do UK taxes work the same as in the USA? (Here we pay capital gains taxes on any increases when we pull back to USD. In our annual tax filings.)
+  * My understanding: Developing countries use a ton of SMS-based payments via their cell providers.
+    * Yoroi wallet is slick!
+  * My story about BTC ATMs and Haiti remittances.
+  * I'll send people to [Charles Hoskinson's YouTube](https://www.youtube.com/channel/UCiJiqEvUZxT6isIaXK7RXTg) for his Africa project updates. 
+* Do UK taxes work the same as in the USA? (Here we pay capital gains taxes on any increases when we extract to USD.)
+  Is VAT relevant? Is Brexit relevant? Brexit business impacts?
 * Smart contracts: I don't understand how they can actually interface with the real world.
+* How / when did you get started in crypto?
+* If ADA didn't exist, what else in crypto is interesting?
+* If crypto currency didn't exist, what else is interesting?
 * Anything you want to talk about?
+
+# <a name="brexit"></a>Brexit, Finland doesn't exist w/ Daniel Bougourd
+
+* Brexit
+  * Initial thoughts / sales pitch
+  * Status update
+* [Does Finland Really Exist? Here's Why Many Don't Think So](https://theculturetrip.com/europe/finland/articles/does-finland-exist-many-dont-think-so/)
 
 # <a name="whiteness"></a>Whiteness w/ Nick Diaz
 
