@@ -46,9 +46,18 @@ A rough sketch of my thoughts / questions I'll probably ask.
 # <a name="brexit"></a>Brexit, Finland doesn't exist w/ Daniel Bougourd
 
 * Brexit
-  * Initial thoughts / sales pitch
-  * Status update
+  * First referendum. Your thoughts at the time? (June 2016, 52% in favour.)
+  * [Results](https://en.wikipedia.org/wiki/Brexit#Referendum_result) look very much like the US rural / urban split?
+  * Jay spends years trying to understand wtf is going on every 3 months or so.
+  * Border delays?
+  * Fishing disputes?
+  * Ireland still in the EU?
+  * Another Scotland referendum? Wales?
+  * Has is worked out the way you thought it would? At any point have you changed your mind?
+    Under what hypothetical would you change your mind?
 * [Does Finland Really Exist? Here's Why Many Don't Think So](https://theculturetrip.com/europe/finland/articles/does-finland-exist-many-dont-think-so/)
+* [Mixed-Member Proportional Representation Explained](https://www.youtube.com/watch?v=QT0I-sdoSXU)
+  * Nebraskans for [Ranked Choice Voting](https://www.youtube.com/playlist?list=PL8Lf7epQllMZUIIRSpgnXftaiuB3WYDz6)
 
 # <a name="whiteness"></a>Whiteness w/ Nick Diaz
 
