@@ -6,6 +6,20 @@ permalink: /questions/
 
 Flushing out questions / notes in advance of interviews. 
 
+My interviews are extremely informal. You don't need to prep anything. Feel free to interrupt me anytime. 
+We don't need to stick to any outline. We can talk about whatever you want to talk about.
+If I ask a question you don't want to answer, no problem. 
+We can talk as long or as briefly as you want. I've done 15 minutes, I've done 3.5 hours. It's completely up to you.
+We can cut whatever parts of the recording you want, just let me know.
+
+That said, people ask me for outlines of what I want to talk about, so this page serves that function. A rough guide of
+my thoughts / questions that I'll probably ask you unless you don't want to talk about whatever I list here. 
+
+# <a name="ADA"></a>Crypto currencies w/ Alex, ADA NASEC mining pool
+
+[Should you start a Cardano Stake Pool in 2021?](https://www.youtube.com/watch?v=HzRdluc5iSw)
+
+
 
 # <a name="whiteness"></a>Whiteness w/ Nick Diaz
 
