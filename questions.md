@@ -20,15 +20,16 @@ A rough sketch of my thoughts / questions I'll probably ask.
 * I thought I'd start with an extremely brief intro for non-crypto people, jump in anytime:
   * What alt coins are, how I found out ADA (Cardano) exists last week: DOGE -> BTC -> ADA
   * Why I love PoS coins (I started in Blackcoin years ago).
+* How / when did you get started in crypto?
+* You help a ton of newbs (like me) in Telegram. How do you find the patience, time?
 * Me telling people to go sub to your YouTube channel, and specifically why I love 
 [Should you start a Cardano Stake Pool in 2021?](https://www.youtube.com/watch?v=HzRdluc5iSw)
   * I don't want you to repeat yourself, I will encourage them to go watch your videos. :)
   * [Small pool graph](https://twitter.com/nierop_pieter/status/1361357344219758597) for the show notes.
   * What feedback have you gotten from that video? Has it drawn a bunch of interest to NASEC? 200K yesterday was huge, yes? :)
   * You fixed [Daedalus Wallet](daedaluswallet.io) NASEC listing yesterday?
-  * You help a ton of newbs (like me) in Telegram. How do you find the patience, time?
-* I love your realism / no hype. What made you decide to start on YouTube? Is your tone a conscious choice you made to buck the
-  "TO THE MOON" hype?
+* I love your realism / no hype. What made you decide to start on YouTube?
+  Is your tone a conscious choice you made to buck the "TO THE MOON" hype?
 * What are you most excited about in the Cardano pipeline?
 * I'm super excited about anything that helps developing nations make money / contracts easier. Know anything about those?
   * My understanding: Developing countries use a ton of SMS-based payments via their cell providers.
@@ -38,7 +39,6 @@ A rough sketch of my thoughts / questions I'll probably ask.
 * Do UK taxes work the same as in the USA? (Here we pay capital gains taxes on any increases when we extract to USD.)
   Is VAT relevant? Is Brexit relevant? Brexit business impacts?
 * Smart contracts: I don't understand how they can actually interface with the real world.
-* How / when did you get started in crypto?
 * If ADA didn't exist, what else in crypto is interesting?
 * If crypto currency didn't exist, what else is interesting?
 * Anything you want to talk about?
