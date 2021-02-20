@@ -45,6 +45,11 @@ A rough sketch of my thoughts / questions I'll probably ask.
 * If crypto currency didn't exist, what else is interesting?
 * Anything you want to talk about?
 
+For the show notes:
+* 1:02 fireproof sleeves https://www.youtube.com/watch?v=2MXLeP1pMfo
+* Charles YT https://www.youtube.com/c/charleshoskinsoncrypto
+
+
 # <a name="brexit"></a>Brexit, Finland doesn't exist w/ Daniel Bougourd
 
 * Brexit
