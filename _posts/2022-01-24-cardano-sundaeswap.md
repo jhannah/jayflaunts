@@ -14,7 +14,7 @@ Jay and Alex talk about last week's launch of SundaeSwap on the Cardano network 
 it's impacted the entire Cardano ecosystem. For good and ill. SundaeSwap is a DEX (decentralized
 exchange) whose popularity has caused impressive backlogs (wait times) for the entire network.
 
-<a href="{{site.storage_url}}/029.mp3" target="_blank">029.mp3</a> (1h 13m 18MB) 
+<a href="{{site.storage_url}}/029.mp3" target="_blank">029.mp3</a> (41m 18MB)
 
 To support Alex please delegate your ADA to [NASEC](https://nasec.co.uk/cardano/)!
 Jay recommends the [ccvault.io](https://ccvault.io/)
