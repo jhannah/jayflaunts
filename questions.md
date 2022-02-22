@@ -15,39 +15,17 @@ We can cut whatever parts of the recording you want, just let me know.
 That said, people ask me for outlines of what I want to talk about, so hopefully this page serves that function.
 A rough sketch of my thoughts / questions I'll probably ask. 
 
-# <a name="ADA"></a>Crypto currencies w/ Alex, ADA NASEC mining pool
 
-* I thought I'd start with an extremely brief intro for non-crypto people, jump in anytime:
-  * What alt coins are, how I found out ADA (Cardano) exists last week: DOGE -> BTC -> ADA
-  * Why I love PoS coins (I started in Blackcoin years ago).
-* How / when did you get started in crypto?
-* You help a ton of newbs (like me) in Telegram. How do you find the patience, time?
-* Me telling people to go sub to your YouTube channel, and specifically why I love 
-[Should you start a Cardano Stake Pool in 2021?](https://www.youtube.com/watch?v=HzRdluc5iSw)
-  * I don't want you to repeat yourself, I will encourage them to go watch your videos. :)
-  * [Small pool graph](https://twitter.com/nierop_pieter/status/1361357344219758597) for the show notes.
-  * What feedback have you gotten from that video? Has it drawn a bunch of interest to NASEC? 200K yesterday was huge, yes? :)
-  * You fixed [Daedalus Wallet](daedaluswallet.io) NASEC listing yesterday?
-* I love your realism / no hype. What made you decide to start on YouTube?
-  Is your tone a conscious choice you made to buck the "TO THE MOON" hype?
-* What are you most excited about in the Cardano pipeline?
-* I'm super excited about anything that helps developing nations make money / contracts easier. Know anything about those?
-  * My understanding: Developing countries use a ton of SMS-based payments via their cell providers.
-    * Yoroi wallet is slick!
-  * My story about BTC ATMs and Haiti remittances.
-  * I'll send people to [Charles Hoskinson's YouTube](https://www.youtube.com/channel/UCiJiqEvUZxT6isIaXK7RXTg) for his Africa project updates. 
-* Do UK taxes work the same as in the USA? (Here we pay capital gains taxes on any increases when we extract to USD.)
-  Is VAT relevant? Is Brexit relevant? Brexit business impacts?
-* Smart contracts: I don't understand how they can actually interface with the real world.
-* ETH Tokens: Big business? wadu-hek? All-electronic trading cards and cats and stuff? Fortnite skins?
-* Your thoughts on hardware wallets? 
-* If ADA didn't exist, what else in crypto is interesting?
-* If crypto currency didn't exist, what else is interesting?
-* Anything you want to talk about?
+# <a name="chris"></a>Next Time, w/ Chris Hoover
 
-For the show notes:
-* 1:02 fireproof sleeves https://www.youtube.com/watch?v=2MXLeP1pMfo
-* Charles YT https://www.youtube.com/c/charleshoskinsoncrypto
+* Jay pushing back on ~"billionaires don't bother me. I would be wrong for me to take the
+  money they've earned by force (taxes). I haven't earned it."
+* We both agree the Elysium universe is unethical? It's slavery, right? Which is wrong?
+  If not UBI / minimum wages / socialized medicine/food/health care, what solution do you propose?
+* Jay thinks affirmative action is a necessary evil in some cases. Chris thinks it's always racism?
+* Jay is driven by population statistics (Utilitarianism). Chris is driven by individual rights?
+  Isn't that a priviledged perspective of those who have managed to make it thinking everyone else
+  should be able to as well?
 
 
 # <a name="brexit"></a>Brexit, Finland doesn't exist w/ Daniel Bougourd
@@ -65,27 +43,6 @@ For the show notes:
 * [Does Finland Really Exist? Here's Why Many Don't Think So](https://theculturetrip.com/europe/finland/articles/does-finland-exist-many-dont-think-so/)
 * [Mixed-Member Proportional Representation Explained](https://www.youtube.com/watch?v=QT0I-sdoSXU)
   * Nebraskans for [Ranked Choice Voting](https://www.youtube.com/playlist?list=PL8Lf7epQllMZUIIRSpgnXftaiuB3WYDz6)
-
-# <a name="whiteness"></a>Whiteness w/ Nick Diaz
-
-Nick: If you wanna discuss whiteness, though, that's my forte lol
-Jay: the world needs more podcast episodes of two white dudes talking about whiteness 🙂
-Nick: Lol, you're being ironic, but it genuinely does 😛
-The thing white folks can do is genuinely deconstruct their own whiteness rather than provide blueprints to marginalized communities, which is so often the case. White folks worry about whiteness, black folks worry about blackness, etc., etc.
-*provide blueprints for marginalized communities to "free themselves," which is counter to solidarity
-Jay: I'm game if you want to. Now I'M very uncomfortable 😉
-Nick: Hahaha, yes, all shall cater to Nick's comfort level. Let it be so.
-Jay: "whiteness" has no meaning without the context of non-whites, where my ignorance is nearly total
-I struggle to think of anything interesting I have to say on the subject
-Nick: Oh, yeah, Toni Morrison (RIP) wrote a whole book where the thesis was basically: white folks use blackness to make themselves superior. All races are constructed to provide hierarchy.
-Same thing with species. It's the same system.
-But, don't worry about contriving a podcast episode on my behalf, lol
-Jay: "shut up you stupid rich white male" is the leading voice in my head + cis
-^^^ I don't think I do that, but it does enter my brain. My blinders are poweful, I assume
-Nick: How do you mean?
-Like, you don't do the thing Morrison wrote about?
-Jay: ha. we can do a podcast where I struggle to explain myself on this topic 🙂
-Nick: Lol, just say the word XD
 
 
 # <a name="uncivil"></a>Uncivil Disobedience
