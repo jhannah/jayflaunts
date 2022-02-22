@@ -23,6 +23,9 @@ A rough sketch of my thoughts / questions I'll probably ask.
 * We both agree the Elysium universe is unethical? It's slavery, right? Which is wrong?
   If not UBI / minimum wages / socialized medicine/food/health care, what solution do you propose?
 * Jay thinks affirmative action is a necessary evil in some cases. Chris thinks it's always racism?
+  [Walter Williams: Suffer No Fools](https://www.amazon.com/Walter-Williams-Suffer-No-Fools/dp/B00SZHH422) says
+  Jay is wrong. And Jay feels very uncomfortable disagreeing with an African American on this topic. :)
+  According to Walter, affirmative action has been doing more harm than good since 1965.
 * Jay is driven by population statistics (Utilitarianism). Chris is driven by individual rights?
   Isn't that a priviledged perspective of those who have managed to make it thinking everyone else
   should be able to as well?
