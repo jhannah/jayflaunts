@@ -29,6 +29,7 @@ A rough sketch of my thoughts / questions I'll probably ask.
 * Jay is driven by population statistics (Utilitarianism). Chris is driven by individual rights?
   Isn't that a priviledged perspective of those who have managed to make it thinking everyone else
   should be able to as well?
+* Biden scares Chris like Trump scares Jay? Talk me through that.
 
 
 # <a name="brexit"></a>Brexit, Finland doesn't exist w/ Daniel Bougourd
