@@ -35,8 +35,8 @@ In January 2015 I bought a cool microphone. Let’s see if anybody will go “on
 				<title>{{ post.title }}</title>
 				<itunes:author>Jay Hannah</itunes:author>
 				<itunes:subtitle>{{ post.title }}</itunes:subtitle>
-				<itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
-				<description>{{ post.content | xml_escape }}</description>
+				<itunes:summary>{{ post.excerpt | xml_escape }}</itunes:summary>
+				<description>{{ post.excerpt | xml_escape }}</description>
 				<itunes:image href="{{site.storage_url}}/logo.jpg" />
 				<enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/x-m4a" />
 				<guid>{{ post.link }}</guid>
