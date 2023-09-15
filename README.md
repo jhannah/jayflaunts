@@ -6,3 +6,8 @@
 
     jekyll serve
 
+## RSS Validators
+
+* [W3C](https://validator.w3.org/feed/check.cgi?url=https%3A%2F%2Fjhannah.github.io%2Fjayflaunts%2Fpodcast.xml)
+* [Cast Feed](https://www.castfeedvalidator.com/validate.php?url=https://jhannah.github.io/jayflaunts/podcast.xml)
+* [Podbase](https://podba.se/validate/?url=https://jhannah.github.io/jayflaunts/podcast.xml)
