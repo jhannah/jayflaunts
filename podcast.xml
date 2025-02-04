@@ -32,9 +32,9 @@ In January 2015 I bought a cool microphone. Let’s see if anybody will go “on
 		<itunes:new-feed-url>http://jhannah.github.io/jayflaunts/podcast.xml</itunes:new-feed-url>
 		{% for post in site.posts %}
 			 <item>
-				<title>{{ post.title }}</title>
+				<title>{{ post.title | xml_escape }}</title>
 				<itunes:author>Jay Hannah</itunes:author>
-				<itunes:subtitle>{{ post.title }}</itunes:subtitle>
+				<itunes:subtitle>{{ post.title | xml_escape }}</itunes:subtitle>
 				<itunes:summary>{{ post.excerpt | xml_escape }}</itunes:summary>
 				<description>{{ post.excerpt | xml_escape }}</description>
 				<itunes:image href="{{site.storage_url}}/logo.jpg" />
