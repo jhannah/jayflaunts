@@ -44,8 +44,9 @@ As of April 2026, only Oct–Dec 2017 has been pulled down (~80k files).
 python3 import_logs.py
 ```
 
-Already-processed files are tracked in the `processed_files` table and skipped on
-subsequent runs. Safe to re-run after each incremental sync.
+Already-processed months are tracked in the `processed_months` table and skipped on
+subsequent runs. Sync a full month, then run this — the importer processes all files
+for a month atomically and marks the whole month done in one commit.
 
 ### 3. Query stats
 
@@ -74,9 +75,9 @@ CREATE TABLE downloads (
     log_file    TEXT       -- source log filename
 );
 
-CREATE TABLE processed_files (
-    filename     TEXT PRIMARY KEY,
-    processed_at TEXT
+CREATE TABLE processed_months (
+    month        TEXT PRIMARY KEY,  -- YYYY-MM
+    processed_at TEXT NOT NULL
 );
 ```
 

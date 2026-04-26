@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Import S3 access logs for jayflaunts.jays.net into SQLite.
-Run repeatedly as you sync more log files — already-processed files are skipped.
+Run repeatedly as you sync more months — already-processed months are skipped.
 
 Usage: python3 import_logs.py
 """
@@ -56,8 +56,8 @@ def init_db(conn):
         CREATE INDEX IF NOT EXISTS idx_timestamp ON downloads(timestamp);
         CREATE INDEX IF NOT EXISTS idx_key       ON downloads(key);
 
-        CREATE TABLE IF NOT EXISTS processed_files (
-            filename     TEXT PRIMARY KEY,
+        CREATE TABLE IF NOT EXISTS processed_months (
+            month        TEXT PRIMARY KEY,
             processed_at TEXT NOT NULL
         );
     """)
@@ -75,7 +75,7 @@ def nullable_int(s):
     return int(s) if s != "-" else None
 
 
-def process_file(conn, path):
+def parse_file(path):
     rows = []
     with open(path, errors="replace") as f:
         for line in f:
@@ -107,37 +107,46 @@ def process_file(conn, path):
                 user_agent if user_agent != "-" else None,
                 path.name,
             ))
-
-    conn.executemany(
-        "INSERT INTO downloads "
-        "(timestamp, remote_ip, operation, key, http_status, bytes_sent, object_size, referer, user_agent, log_file) "
-        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
-        rows,
-    )
-    conn.execute(
-        "INSERT INTO processed_files (filename, processed_at) VALUES (?, ?)",
-        (path.name, datetime.now(timezone.utc).isoformat()),
-    )
-    conn.commit()
-    return len(rows)
+    return rows
 
 
 def main():
     conn = sqlite3.connect(DB_PATH)
     init_db(conn)
 
-    already_done = {r[0] for r in conn.execute("SELECT filename FROM processed_files")}
-    all_files = sorted(LOGS_DIR.iterdir())
-    pending = [f for f in all_files if f.is_file() and f.name not in already_done]
+    already_done = {r[0] for r in conn.execute("SELECT month FROM processed_months")}
+    all_files = sorted(f for f in LOGS_DIR.iterdir() if f.is_file())
 
-    print(f"Already processed : {len(already_done):,} files")
-    print(f"New files to import: {len(pending):,} files")
+    def month_of(p):
+        return p.name[:7]  # "2018-01-15-..." → "2018-01"
+
+    pending = [f for f in all_files if month_of(f) not in already_done]
+
+    months: dict[str, list[Path]] = {}
+    for f in pending:
+        months.setdefault(month_of(f), []).append(f)
+
+    print(f"Already processed : {len(already_done):,} months")
+    print(f"Months to import  : {len(months):,} ({len(pending):,} files)")
 
     total_rows = 0
-    for i, path in enumerate(pending, 1):
-        total_rows += process_file(conn, path)
-        if i % 5000 == 0:
-            print(f"  {i:,}/{len(pending):,} files … {total_rows:,} download rows so far")
+    for month, files in sorted(months.items()):
+        month_rows = []
+        for path in files:
+            month_rows.extend(parse_file(path))
+        conn.executemany(
+            "INSERT INTO downloads "
+            "(timestamp, remote_ip, operation, key, http_status, bytes_sent, object_size, referer, user_agent, log_file) "
+            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+            month_rows,
+        )
+        conn.execute(
+            "INSERT INTO processed_months (month, processed_at) VALUES (?, ?)",
+            (month, datetime.now(timezone.utc).isoformat()),
+        )
+        conn.commit()
+        total_rows += len(month_rows)
+        print(f"  {month}: {len(files):,} files → {len(month_rows):,} downloads")
 
     db_total = conn.execute("SELECT COUNT(*) FROM downloads").fetchone()[0]
     print(f"\nInserted {total_rows:,} new rows. Total in DB: {db_total:,}")
