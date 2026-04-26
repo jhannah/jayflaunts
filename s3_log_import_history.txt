@@ -49,3 +49,13 @@ Months to import  : 45 (3,061,338 files)
 
 Inserted 6,650 new rows. Total in DB: 6,650
 
+Purge incomplete month for re-run:
+
+sqlite3 downloads.db
+DELETE FROM downloads WHERE log_file LIKE '2021-06-%';
+DELETE FROM processed_months WHERE month = '2021-06';
+
+Clean up S3:
+
+This permanently deletes from S3, so worth double-checking first with --dryrun:
+aws s3 rm s3://jayflaunts.jays.net/logs/ --recursive --exclude "*" --include "2017-*" --dryrun
