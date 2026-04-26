@@ -88,12 +88,12 @@ def full_report(conn):
     date_range = conn.execute(
         "SELECT MIN(timestamp), MAX(timestamp) FROM downloads"
     ).fetchone()
-    files_processed = conn.execute(
-        "SELECT COUNT(*) FROM processed_files"
+    months_processed = conn.execute(
+        "SELECT COUNT(*) FROM processed_months"
     ).fetchone()[0]
 
     print(f"\n=== jayflaunts podcast download stats ===")
-    print(f"Log files processed : {files_processed:,}")
+    print(f"Months processed    : {months_processed:,}")
     print(f"Total download rows : {total:,}")
     print(f"Date range          : {date_range[0][:10]}  →  {date_range[1][:10]}")
 
