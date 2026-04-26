@@ -22,33 +22,27 @@ and returns only the signal rows.
 
 ## One-time setup
 
-Run `setup.sql` in the Athena console (Query Editor) or via CLI:
-
 ```bash
-aws athena start-query-execution \
-  --query-string "$(cat setup.sql)" \
-  --result-configuration OutputLocation=s3://YOUR-BUCKET/athena-setup/
+python3 create_table.py [--region us-east-1]
 ```
 
-This creates the `jayflaunts_logs` database and `access_logs` external table
-pointing at `s3://jayflaunts.jays.net/logs/`. Run it once; the table is permanent.
+Creates the `jayflaunts_logs` database and `access_logs` table directly in the
+AWS Glue Data Catalog via boto3 — bypasses Athena DDL entirely, which avoids
+engine-version syntax issues. Requires IAM permissions for `glue:CreateDatabase`
+and `glue:CreateTable`. The table is permanent; run this once.
 
 ## Workflow
 
-### 1. Edit run_export.sh
+### 1. Run the export query
 
-Set `ATHENA_OUTPUT` to your S3 output bucket and `REGION` to match your bucket.
+Paste `export.sql` into the Athena Query Editor and run it.
+Select database `jayflaunts_logs` in the dropdown first.
 
-### 2. Run the export
+The query scans all 15M log files on AWS infrastructure — typically 1–5 minutes.
+When it finishes, click **Download results** in the Query Editor to get the CSV.
+Save it as `downloads.csv` in this directory.
 
-```bash
-bash run_export.sh
-```
-
-Starts the Athena query, polls until done (typically 1–5 minutes for the full
-8.5-year history), then downloads the result as `downloads.csv` here.
-
-### 3. Import into SQLite
+### 2. Import into SQLite
 
 ```bash
 python3 import_csv.py
@@ -57,7 +51,7 @@ python3 import_csv.py
 Replaces all rows in `../downloads.db` (the same database `stats.py` uses)
 and repopulates `processed_months` from the actual timestamps in the data.
 
-### 4. Query stats
+### 3. Query stats
 
 ```bash
 python3 ../stats.py
@@ -66,6 +60,11 @@ python3 ../stats.py --episodes
 python3 ../stats.py --year 2018
 python3 ../stats.py --episode earl4
 ```
+
+### CLI alternative
+
+If you prefer the command line over the Query Editor, `setup.sh` and
+`run_export.sh` automate the same steps via `aws athena` commands.
 
 ## Files
 

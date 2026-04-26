@@ -1,34 +1,39 @@
--- Run once in the Athena console (or via AWS CLI) before anything else.
--- Replaces the need to sync log files locally — Athena reads directly from S3.
+-- Athena only runs ONE statement per execution.
+-- Use setup.sh to run both via CLI, or paste them one at a time in the console.
 
-CREATE DATABASE IF NOT EXISTS jayflaunts_logs;
+-- Statement 1 of 2:
+-- CREATE SCHEMA IF NOT EXISTS jayflaunts_logs
 
-CREATE EXTERNAL TABLE IF NOT EXISTS jayflaunts_logs.access_logs (
-  bucketowner    STRING,
-  bucket         STRING,
-  requestdatetime STRING,
-  remoteip       STRING,
-  requester      STRING,
-  requestid      STRING,
-  operation      STRING,
-  key            STRING,
-  requesturi     STRING,
-  httpstatus     STRING,
-  errorcode      STRING,
-  bytessent      STRING,
-  objectsize     STRING,
-  totaltime      STRING,
-  turnaroundtime STRING,
-  referrer       STRING,
-  useragent      STRING,
-  versionid      STRING,
-  hostid         STRING,
-  sigv           STRING,
-  ciphersuite    STRING,
-  authtype       STRING,
-  endpoint       STRING,
-  tlsversion     STRING
+-- Statement 2 of 2 (the table — run this one after the schema exists):
+CREATE TABLE IF NOT EXISTS jayflaunts_logs.access_logs (
+  bucketowner     varchar,
+  bucket          varchar,
+  requestdatetime varchar,
+  remoteip        varchar,
+  requester       varchar,
+  requestid       varchar,
+  operation       varchar,
+  key             varchar,
+  requesturi      varchar,
+  httpstatus      varchar,
+  errorcode       varchar,
+  bytessent       varchar,
+  objectsize      varchar,
+  totaltime       varchar,
+  turnaroundtime  varchar,
+  referrer        varchar,
+  useragent       varchar,
+  versionid       varchar,
+  hostid          varchar,
+  sigv            varchar,
+  ciphersuite     varchar,
+  authtype        varchar,
+  endpoint        varchar,
+  tlsversion      varchar
 )
-ROW FORMAT REGEX
-'([^ ]*) ([^ ]*) \\[(.*?)\\] ([^ ]*) ([^ ]*) ([^ ]*) ([^ ]*) ([^ ]*) (\"[^\"]*\"|-) (-|[0-9]*) ([^ ]*) ([^ ]*) ([^ ]*) ([^ ]*) ([^ ]*) (\"[^\"]*\"|-) (\"[^\"]*\"|-) ([^ ]*)(?: ([^ ]*) ([^ ]*) ([^ ]*) ([^ ]*) ([^ ]*) ([^ ]*))?.*$'
-LOCATION 's3://jayflaunts.jays.net/logs/';
+WITH (
+  external_location = 's3://jayflaunts.jays.net/logs/',
+  format            = 'TEXTFILE',
+  serde_lib         = 'org.apache.hadoop.hive.serde2.RegexSerDe',
+  serde_properties  = '{"input.regex": "([^ ]*) ([^ ]*) \\[(.*?)\\] ([^ ]*) ([^ ]*) ([^ ]*) ([^ ]*) ([^ ]*) (\"[^\"]*\"|-) (-|[0-9]*) ([^ ]*) ([^ ]*) ([^ ]*) ([^ ]*) ([^ ]*) (\"[^\"]*\"|-) (\"[^\"]*\"|-) ([^ ]*)(?: ([^ ]*) ([^ ]*) ([^ ]*) ([^ ]*) ([^ ]*) ([^ ]*))?.*$"}'
+)
