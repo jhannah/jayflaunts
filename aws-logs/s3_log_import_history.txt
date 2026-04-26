@@ -1,0 +1,61 @@
+✗ python3 import_logs.py
+Already processed : 0 months
+Months to import  : 45 (3,061,338 files)
+  2017-10: 33,780 files → 372 downloads
+  2017-11: 32,844 files → 190 downloads
+  2017-12: 41,074 files → 30 downloads
+  2018-01: 45,227 files → 86 downloads
+  2018-02: 41,921 files → 175 downloads
+  2018-03: 33,191 files → 28 downloads
+  2018-04: 32,316 files → 56 downloads
+  2018-05: 31,359 files → 66 downloads
+  2018-06: 32,449 files → 27 downloads
+  2018-07: 50,460 files → 197 downloads
+  2018-08: 38,795 files → 66 downloads
+  2018-09: 38,706 files → 89 downloads
+  2018-10: 41,174 files → 183 downloads
+  2018-11: 50,187 files → 231 downloads
+  2018-12: 52,784 files → 427 downloads
+  2019-01: 65,947 files → 541 downloads
+  2019-02: 58,916 files → 382 downloads
+  2019-03: 57,293 files → 68 downloads
+  2019-04: 58,008 files → 212 downloads
+  2019-05: 56,094 files → 99 downloads
+  2019-06: 54,355 files → 54 downloads
+  2019-07: 61,748 files → 32 downloads
+  2019-08: 68,117 files → 101 downloads
+  2019-09: 78,666 files → 719 downloads
+  2019-10: 75,762 files → 427 downloads
+  2019-11: 69,505 files → 236 downloads
+  2019-12: 77,179 files → 134 downloads
+  2020-01: 76,525 files → 135 downloads
+  2020-02: 67,308 files → 37 downloads
+  2020-03: 74,727 files → 32 downloads
+  2020-04: 79,083 files → 28 downloads
+  2020-05: 90,920 files → 122 downloads
+  2020-06: 85,918 files → 55 downloads
+  2020-07: 96,281 files → 31 downloads
+  2020-08: 97,760 files → 211 downloads
+  2020-09: 92,488 files → 57 downloads
+  2020-10: 95,505 files → 134 downloads
+  2020-11: 100,100 files → 137 downloads
+  2020-12: 105,103 files → 84 downloads
+  2021-01: 121,179 files → 96 downloads
+  2021-02: 146,414 files → 154 downloads
+  2021-03: 137,598 files → 48 downloads
+  2021-04: 95,152 files → 25 downloads
+  2021-05: 96,179 files → 24 downloads
+  2021-06: 25,241 files → 12 downloads
+
+Inserted 6,650 new rows. Total in DB: 6,650
+
+Purge incomplete month for re-run:
+
+sqlite3 downloads.db
+DELETE FROM downloads WHERE log_file LIKE '2021-06-%';
+DELETE FROM processed_months WHERE month = '2021-06';
+
+Clean up S3:
+
+This permanently deletes from S3, so worth double-checking first with --dryrun:
+aws s3 rm s3://jayflaunts.jays.net/logs/ --recursive --exclude "*" --include "2017-*" --dryrun
