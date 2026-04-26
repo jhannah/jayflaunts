@@ -92,7 +92,6 @@ CREATE TABLE processed_months (
 - Most log files contain only S3stat bucket-listing requests, not real downloads.
   Signal density is low (~567 downloads across 80k log files for late 2017).
 - April 2026:
-  - 15,123,155 log files total in S3. That's ~15 million files across 2017–2026,
-  which explains why the full sync is impractical.
+  - 15,123,155 log files total in S3 across 2017–2026, which explains why full sync is impractical.
   - The latest log files are dated 2026-04-26, confirming the bucket is still actively
   logging right up to today. So you've got ~8.5 years of data waiting to be imported, month by month.
