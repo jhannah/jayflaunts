@@ -59,3 +59,9 @@ Clean up S3:
 
 This permanently deletes from S3, so worth double-checking first with --dryrun:
 aws s3 rm s3://jayflaunts.jays.net/logs/ --recursive --exclude "*" --include "2017-*" --dryrun
+
+Import the next month:
+
+aws s3 sync s3://jayflaunts.jays.net/logs/ ./logs/ --exclude "*" --include "2021-06-*"
+python3 import_logs.py
+
