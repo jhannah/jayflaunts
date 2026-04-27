@@ -4,7 +4,7 @@
 set -euo pipefail
 
 # --- Configure these ---
-ATHENA_OUTPUT="s3://YOUR-BUCKET/athena-results/"   # must end with /
+ATHENA_OUTPUT="s3://jayflaunts.jays.net/athena-results/"   # must end with /
 REGION="us-east-1"
 # -----------------------
 
