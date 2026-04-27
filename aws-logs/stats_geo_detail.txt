@@ -1,0 +1,914 @@
+
+Country                    Subdivision           City                   Downloads
+---------------------------------------------------------------------------------
+United States                                                               4,320
+United States              Nebraska              Omaha                      1,643
+United States              Oregon                Boardman                   1,454
+United States              Iowa                  Council Bluffs               844
+United States              Virginia              Ashburn                      822
+United States              California            San Jose                     765
+United States              Ohio                  Columbus                     737
+Russia                                                                        735
+France                     Paris Department      Paris                        400
+United States              Arizona               Phoenix                      375
+United States              Virginia              Boydton                      328
+Singapore                                        Singapore                    295
+Germany                    Hesse                 Frankfurt am Main            261
+United States              Washington                                         205
+(unknown)                                                                     203
+United States              California            Los Angeles                  168
+United States              Texas                 Dallas                       154
+United States              Missouri              Independence                 153
+United States              Illinois              Urbana                       152
+Japan                                                                         138
+United States              Ohio                  Lewis Center                 126
+Singapore                                                                     122
+France                                                                        117
+United Kingdom             City of London        City of London               111
+Vietnam                                                                       111
+China                      Shanghai              Shanghai                     109
+Russia                     Moscow                Moscow                       107
+United States              Iowa                  Des Moines                    94
+United States              Illinois              Chicago                       93
+Hong Kong                                        Hong Kong                     84
+China                                                                          83
+United States              Michigan              Detroit                       80
+Vietnam                    Hanoi                 Hanoi                         80
+Netherlands                Groningen             Groningen                     75
+Vietnam                    Ho Chi Minh           Ho Chi Minh City              75
+United States              Georgia               Atlanta                       72
+United States              Virginia              Washington                    72
+Spain                                                                          71
+United States              Texas                 Richardson                    71
+United States              Minnesota             Duluth                        69
+United States              Tennessee             Clarksville                   66
+United Kingdom             Tower Hamlets         Canary Wharf                  64
+United Kingdom             Camden                Camden                        61
+United States              California            San Diego                     61
+Canada                     Ontario               Etobicoke                     60
+Germany                    Bavaria               Garching                      60
+Uzbekistan                 Tashkent              Tashkent                      60
+Australia                  Victoria              Melbourne                     58
+United Kingdom             England               London                        58
+India                      Punjab                Māchhīwāra                    56
+United Arab Emirates       Emirate of Ras Al Khaimah  Ras al-Khaimah                56
+United States              Illinois                                            56
+United States              Tennessee             Nashville                     55
+United States              Nebraska              Elkhorn                       53
+United States              Maryland              Bowie                         52
+Thailand                   Bangkok               Bangkok                       51
+United States              Minnesota             Minneapolis                   51
+United States              Texas                 Justin                        51
+Germany                    Saxony                Falkenstein                   50
+United States              Colorado              Pueblo                        50
+United States              Nebraska              Bellevue                      50
+Germany                    North Rhine-Westphalia  Jülich                        49
+Ireland                    Leinster              Dublin                        49
+United States              District of Columbia  Washington                    49
+Grenada                    Saint George Parish   Saint George's                46
+United States              California            Laguna Niguel                 44
+United States              Nevada                Las Vegas                     44
+United States              New Jersey            North Bergen                  43
+United Kingdom             Liverpool             Liverpool                     42
+United States              Nebraska              Fremont                       41
+Kenya                      Nairobi County        Nairobi                       40
+United Kingdom             Slough                Slough                        40
+United States              Colorado              Denver                        40
+United States              Texas                 Houston                       37
+United Kingdom                                                                 35
+United States              California            Chatsworth                    34
+United States              Nebraska              Lincoln                       32
+United States              Texas                 McKinney                      32
+United States              Washington            Seattle                       32
+United States              Nebraska                                            31
+Serbia                                                                         30
+South Korea                Jeollanam-do          Suncheon-si                   30
+Seychelles                                                                     29
+United States              Connecticut           Waterbury                     29
+Australia                  Queensland            Brisbane                      28
+United States              Georgia               Tucker                        28
+United States              Texas                 Aubrey                        28
+Australia                  New South Wales       Sydney                        27
+India                                                                          27
+United States              Georgia               Woodstock                     27
+United States              Missouri              Kansas City                   26
+France                     Rhône                 Lyon                          24
+Tanzania                   Dar es Salaam Region  Dar es Salaam                 24
+United States              California                                          24
+United States              Minnesota             Saint Paul                    24
+United States              Nebraska              Springfield                   23
+United States              Texas                 Dripping Springs              23
+United States              Iowa                  Glenwood                      22
+United States              Massachusetts         Newburyport                   22
+France                     Île-de-France                                       20
+United States              Kansas                Olathe                        20
+United States              New York              Brooklyn                      20
+United States              Texas                 Grapevine                     20
+China                      Hubei                 Wuhan                         19
+Finland                    Uusimaa               Helsinki                      19
+United States              Arizona               Chandler                      19
+United States              Nebraska              Papillion                     19
+United States              New Mexico            Albuquerque                   19
+United States              Texas                 Leander                       19
+China                      Jiangsu               Wuxi                          18
+United States              Oregon                Portland                      18
+Norway                     Oslo County           Oslo                          17
+United Kingdom             Sandwell              Tipton                        17
+United States              California            San Francisco                 17
+United States              New York              Queens                        17
+United States              Colorado              Fort Collins                  16
+United States              New York                                            16
+Canada                     Ontario               Toronto                       15
+Thailand                   Bangkok               Dusit                         15
+United States              Nebraska              La Vista                      15
+United States              Oregon                Hillsboro                     15
+United States              Texas                 Frisco                        15
+United Kingdom             Torfaen County Borough  Cwmbran                       14
+United States              California            Lancaster                     14
+United States              California            Santa Cruz                    14
+United States              California            Sunnyvale                     14
+United States              Colorado              Colorado Springs              14
+United States              Minnesota                                           14
+United States              North Carolina        High Point                    14
+United States              Tennessee             Murfreesboro                  14
+Vietnam                    Haiphong              Haiphong                      14
+Brazil                     São Paulo             São Paulo                     13
+Germany                    Bavaria               Munich                        13
+United States              Florida               Miami                         13
+United States              New Jersey            Clifton                       13
+Bangladesh                 Dhaka                 Dhaka                         12
+Canada                     Ontario               Woodbridge                    12
+United States              Georgia                                             12
+United States              Kansas                Fort Scott                    12
+United States              Massachusetts         Newton                        12
+United States              New York              New York                      12
+United States              North Carolina        Washington                    12
+United States              Texas                 Austin                        12
+India                      Maharashtra           Mumbai                        11
+Indonesia                                                                      11
+Tanzania                   Zanzibar Urban/West   Zanzibar                      11
+United States              Massachusetts         Boston                        11
+United States              Nebraska              Denton                        11
+United States              South Carolina        North Charleston              11
+United States              Texas                 San Antonio                   11
+France                     Hautes-Pyrénées       Tarbes                        10
+Germany                                                                        10
+India                      Punjab                Sangrur                       10
+Malaysia                   Selangor              Petaling Jaya                 10
+Thailand                                                                       10
+United States              Colorado              Aurora                        10
+United States              Florida               Lake Worth                    10
+United States              Iowa                  Burlington                    10
+United States              Oregon                Prineville                    10
+Vietnam                    Da Nang               Da Nang                       10
+India                      Haryana               Panchkula                      9
+Saudi Arabia               Riyadh Region         Riyadh                         9
+United Arab Emirates       Dubai                 Dubai                          9
+United Kingdom             West Sussex           Haywards Heath                 9
+United States              California            Fairfield                      9
+United States              California            Fremont                        9
+United States              Kansas                Kansas City                    9
+United States              Ohio                  Dayton                         9
+United States              Texas                 Graford                        9
+United States              Virginia              Sterling                       9
+Australia                  Queensland            Townsville                     8
+Brazil                     Rio de Janeiro        Rio de Janeiro                 8
+Czechia                    Prague                Prague                         8
+Puerto Rico                                      San Juan                       8
+Spain                      Madrid                Madrid                         8
+United Kingdom             Plymouth              Plymouth                       8
+United States              Arizona               Eloy                           8
+United States              California            Santa Clara                    8
+United States              California            South San Francisco            8
+United States              Florida                                              8
+United States              Florida               Jacksonville                   8
+United States              Illinois              Willowbrook                    8
+United States              Iowa                  Wayland                        8
+United States              Michigan              Brighton                       8
+United States              North Carolina        Concord                        8
+United States              Pennsylvania                                         8
+United States              Texas                 Plano                          8
+Australia                  Western Australia     Perth                          7
+Bangladesh                                                                      7
+India                      Manipur               Imphal                         7
+Iraq                                                                            7
+Ireland                    County Wexford        Wexford                        7
+Kazakhstan                 Astana                Astana                         7
+Ukraine                    Kyiv City             Kyiv                           7
+United States              Arizona               Mesa                           7
+United States              California            San Marcos                     7
+United States              Kentucky              Lexington                      7
+United States              Missouri              Raymore                        7
+United States              New York              The Bronx                      7
+United States              Oklahoma              Edmond                         7
+Australia                  Tasmania              Hobart                         6
+Belgium                    Brussels Capital      Brussels                       6
+Canada                     Quebec                Montreal                       6
+Germany                    Bavaria               Bamberg                        6
+Germany                    Lower Saxony          Goslar                         6
+India                      National Capital Territory of Delhi  New Delhi                      6
+Israel                     Tel Aviv              Ramat Gan                      6
+Thailand                   Ratchaburi            Ratchaburi                     6
+Thailand                   Rayong                Rayong                         6
+United Kingdom             Islington             Islington                      6
+United Kingdom             Telford and Wrekin    Telford                        6
+United Kingdom             Warrington            Warrington                     6
+United Kingdom             Worcestershire        Evesham                        6
+United States              Arizona               Peoria                         6
+United States              Florida               Orlando                        6
+United States              Maryland              Grasonville                    6
+United States              Maryland              Stevensville                   6
+United States              New Jersey            Cedar Knolls                   6
+United States              New York              Poughkeepsie                   6
+United States              Ohio                  Springboro                     6
+United States              Tennessee             Memphis                        6
+United States              Texas                 Denton                         6
+United States              Washington            Tacoma                         6
+Brazil                     São Paulo             Campinas                       5
+France                     Val d'Oise            Marines                        5
+Germany                    State of Berlin       Berlin                         5
+Hong Kong                                                                       5
+India                      Telangana             Hyderabad                      5
+Iraq                       Erbil Governorate     Erbil                          5
+Malaysia                   Kuala Lumpur          Kuala Lumpur                   5
+Netherlands                North Holland         Amsterdam                      5
+New Zealand                Auckland              Auckland                       5
+New Zealand                Wellington Region     Wellington                     5
+Pakistan                   Punjab                Lahore                         5
+Peru                       Lima Province         Lima                           5
+South Korea                                                                     5
+Switzerland                Zurich                Zurich                         5
+Thailand                   Phuket                Phuket                         5
+United Kingdom             Brighton and Hove     Brighton                       5
+United States              Arizona               Willcox                        5
+United States              California            Fontana                        5
+United States              California            Oakland                        5
+United States              California            San Pablo                      5
+United States              Georgia               Athens                         5
+United States              Kansas                Ottawa                         5
+United States              Texas                 Katy                           5
+United States              Texas                 Rockwall                       5
+United States              Wyoming               Cheyenne                       5
+Australia                  New South Wales                                      4
+Australia                  Northern Territory    Darwin                         4
+Australia                  Victoria                                             4
+Brazil                     Minas Gerais          Jacinto                        4
+Brazil                     São Paulo             Jacareí                        4
+Canada                     Alberta               Edmonton                       4
+Colombia                   Antioquia             Medellín                       4
+Germany                    Bavaria               Bad Tölz                       4
+Greece                     Attica                Athens                         4
+India                      Maharashtra           Nagpur                         4
+India                      Nagaland              Dimāpur                        4
+India                      Tripura               Rādhākishorepur                4
+Iraq                       Baghdad               Baghdad                        4
+Italy                      Province of Milan     Milan                          4
+Malawi                     Lilongwe District     Lilongwe                       4
+Norway                     Østfold               Fredrikstad                    4
+Philippines                                                                     4
+Poland                                                                          4
+Russia                     Saratov Oblast        Saratov                        4
+Saudi Arabia                                                                    4
+Sweden                                                                          4
+Sweden                     Skåne County          Helsingborg                    4
+Switzerland                                                                     4
+Tajikistan                                                                      4
+United Kingdom             Barking and Dagenham  Dagenham                       4
+United Kingdom             Belfast               Belfast                        4
+United Kingdom             Brent                 Brent                          4
+United Kingdom             Cardiff               Cardiff                        4
+United Kingdom             Derby                 Derby                          4
+United Kingdom             Kingston upon Thames  Kingston upon Thames           4
+United States              Alabama               Birmingham                     4
+United States              Alaska                Kenai                          4
+United States              California            Culver City                    4
+United States              California            Seaside                        4
+United States              Colorado              Leadville                      4
+United States              Colorado              Loveland                       4
+United States              Florida               Hollywood                      4
+United States              Florida               Lynn Haven                     4
+United States              Georgia               Norcross                       4
+United States              Georgia               Stockbridge                    4
+United States              Indiana               Indianapolis                   4
+United States              Iowa                  Ankeny                         4
+United States              Iowa                  Polk City                      4
+United States              Iowa                  Tiffin                         4
+United States              Kentucky              Louisville                     4
+United States              Louisiana             Shreveport                     4
+United States              Michigan              Columbiaville                  4
+United States              Michigan              Lansing                        4
+United States              Minnesota             White Bear Lake                4
+United States              Missouri              Springfield                    4
+United States              Nebraska              Bennington                     4
+United States              Nebraska              Schuyler                       4
+United States              New Jersey            Newark                         4
+United States              North Carolina        Charlotte                      4
+United States              North Carolina        Dunn                           4
+United States              North Carolina        Forest City                    4
+United States              North Carolina        Hertford                       4
+United States              North Dakota          Fargo                          4
+United States              Pennsylvania          Nicholson                      4
+United States              Pennsylvania          West Grove                     4
+United States              Texas                 Georgetown                     4
+United States              Texas                 Little Elm                     4
+United States              Texas                 Sulphur Springs                4
+United States              Virginia              Sandston                       4
+United States              Washington            Arlington                      4
+United States              Washington            Bellevue                       4
+United States              Wisconsin             Milwaukee                      4
+Vietnam                    Hải Dương Province    Hải Dương                      4
+Albania                    Tirana                Tirana                         3
+Australia                                                                       3
+Australia                  Queensland            Gordonvale                     3
+Belgium                    Flemish Brabant Province  Leuven                         3
+Belgium                    Hainaut Province      Charleroi                      3
+Brazil                     Federal District      Brasília                       3
+Brazil                     Maranhão              Imperatriz                     3
+Brazil                     Paraná                Curitiba                       3
+Brazil                     Paraná                São José dos Pinhais           3
+Brazil                     São Paulo             Franca                         3
+Canada                                                                          3
+Canada                     British Columbia      Victoria                       3
+Canada                     Ontario               Kitchener                      3
+Costa Rica                 Provincia de San José  San José                       3
+Ecuador                    Pichincha             Quito                          3
+Finland                    Ostrobothnia          Vaasa                          3
+France                     Val d'Oise            Argenteuil                     3
+Germany                    Baden-Wurttemberg     Ulm                            3
+Germany                    Lower Saxony          Bad Pyrmont                    3
+Germany                    Lower Saxony          Hambergen                      3
+Germany                    Lower Saxony          Lüchow                         3
+Germany                    North Rhine-Westphalia  Duisburg                       3
+Hungary                    Veszprém megye        Veszprém                       3
+India                      Gujarat               Surat                          3
+India                      Madhya Pradesh                                       3
+Italy                                                                           3
+Kenya                                                                           3
+Kenya                      Kisumu County         Kisumu                         3
+Lithuania                  Vilnius City Municipality  Vilnius                        3
+Mexico                     Mexico City           Benito Juarez                  3
+New Zealand                                                                     3
+Pakistan                                                                        3
+Saudi Arabia               Eastern Province      Dammam                         3
+Serbia                     Belgrade              Belgrade                       3
+Switzerland                Bern                  Bern                           3
+Thailand                   Phra Nakhon Si Ayutthaya                                 3
+Türkiye                    Istanbul              Istanbul                       3
+Ukraine                    Zakarpattia Oblast                                   3
+United Kingdom             Lambeth               Lambeth                        3
+United Kingdom             Leicestershire        Loughborough                   3
+United Kingdom             Lewisham              Sydenham                       3
+United Kingdom             Peterborough          Peterborough                   3
+United States              Arizona               Tucson                         3
+United States              California            Campbell                       3
+United States              California            Garden Grove                   3
+United States              California            Riverside                      3
+United States              California            San Bernardino                 3
+United States              California            Santa Ana                      3
+United States              California            Santa Maria                    3
+United States              Colorado                                             3
+United States              Colorado              Boulder                        3
+United States              Florida               Tamarac                        3
+United States              Georgia               Hephzibah                      3
+United States              Hawaii                Honolulu                       3
+United States              Illinois              Freeport                       3
+United States              Iowa                  Muscatine                      3
+United States              Iowa                  Sioux City                     3
+United States              Kansas                                               3
+United States              Louisiana             Hahnville                      3
+United States              Maryland              Waldorf                        3
+United States              Minnesota             New York Mills                 3
+United States              Minnesota             Pequot Lakes                   3
+United States              Minnesota             Waite Park                     3
+United States              Missouri              O'Fallon                       3
+United States              Nebraska              Tekamah                        3
+United States              New Jersey            Bayonne                        3
+United States              New Mexico            Los Lunas                      3
+United States              New York              Floral Park                    3
+United States              New York              Port Washington                3
+United States              North Carolina        Chapel Hill                    3
+United States              North Carolina        Raleigh                        3
+United States              Ohio                  New Albany                     3
+United States              Oregon                Hood River                     3
+United States              Oregon                The Dalles                     3
+United States              Pennsylvania          Pittsburgh                     3
+United States              Pennsylvania          York                           3
+United States              South Dakota          Sturgis                        3
+United States              Texas                 Flower Mound                   3
+United States              Texas                 Fort Worth                     3
+United States              Texas                 Magnolia                       3
+United States              Texas                 Spring                         3
+United States              Virginia              Fairfax                        3
+United States              Virginia              Manassas                       3
+United States              Virginia              Roanoke                        3
+United States              Washington            Auburn                         3
+Venezuela                  Distrito Federal      Caracas                        3
+Venezuela                  Zulia                 Maracaibo                      3
+Argentina                                                                       2
+Argentina                  Buenos Aires          Mercedes                       2
+Argentina                  Buenos Aires          Quilmes                        2
+Argentina                  Buenos Aires F.D.     Buenos Aires                   2
+Argentina                  Cordoba               Córdoba                        2
+Argentina                  Mendoza               San Martín                     2
+Argentina                  Salta                 Salta                          2
+Argentina                  Salta                 San José de Metán              2
+Argentina                  Santa Fe                                             2
+Argentina                  Santa Fe              Bernardo de Irigoyen           2
+Australia                  New South Wales       Wollongong                     2
+Australia                  South Australia                                      2
+Austria                    Salzburg              Salzburg                       2
+Azerbaijan                                                                      2
+Azerbaijan                 Baku City             Baku                           2
+Belgium                    Hainaut Province      La Louvière                    2
+Belgium                    Walloon Brabant Province  Beauvechain                    2
+Bosnia and Herzegovina     Federation of Bosnia and Herzegovina  Sarajevo                       2
+Brazil                     Amazonas              Manaus                         2
+Brazil                     Bahia                 Irecê                          2
+Brazil                     Bahia                 Itaberaba                      2
+Brazil                     Bahia                 Maraú                          2
+Brazil                     Bahia                 Riacho de Santana              2
+Brazil                     Ceará                 Maracanaú                      2
+Brazil                     Espírito Santo        Vitória                        2
+Brazil                     Minas Gerais          Manhuaçu                       2
+Brazil                     Paraná                Jaguariaíva                    2
+Brazil                     Pernambuco            Recife                         2
+Brazil                     Rio Grande do Sul     Caxias do Sul                  2
+Brazil                     Rio Grande do Sul     Nova Hartz                     2
+Brazil                     Rio Grande do Sul     Porto Alegre                   2
+Brazil                     Rio Grande do Sul     Rio Grande                     2
+Brazil                     Rio de Janeiro        Maricá                         2
+Brazil                     Santa Catarina        Itajaí                         2
+Brazil                     São Paulo             Atibaia                        2
+Brazil                     São Paulo             Guarulhos                      2
+Brazil                     Tocantins             Araguaína                      2
+Cabo Verde                 Praia                 Praia                          2
+Canada                     Alberta               Coronation                     2
+Canada                     Quebec                Victoriaville                  2
+Chile                                                                           2
+Chile                      Santiago Metropolitan  Santiago                       2
+China                      Jiangsu               Nanjing                        2
+China                      Tianjin               Tianjin                        2
+Denmark                    Capital Region        Herlev                         2
+Denmark                    Capital Region        Kokkedal                       2
+Dominican Republic         Samaná                Samaná                         2
+Ecuador                    Cotopaxi              Latacunga                      2
+Ecuador                    Esmeraldas            Quininde                       2
+Egypt                      Alexandria            Alexandria                     2
+Egypt                      Cairo Governorate     Cairo                          2
+Finland                                                                         2
+India                      Andhra Pradesh        Rajahmundry                    2
+India                      Andhra Pradesh        Visakhapatnam                  2
+India                      Chandigarh            Chandigarh                     2
+India                      Chhattisgarh                                         2
+India                      Chhattisgarh          Bhilai                         2
+India                      Uttarakhand           Dehradun                       2
+India                      West Bengal           Kolkata                        2
+Indonesia                  Central Java          Semarang                       2
+Italy                      Bologna               Zola Predosa                   2
+Italy                      Rome                  Rome                           2
+Ivory Coast                Abidjan Autonomous District  Abidjan                        2
+Jamaica                    Kingston              Kingston                       2
+Japan                      Oita                  Yokkaichi                      2
+Japan                      Tokyo                 Minato                         2
+Japan                      Tokyo                 Tokyo                          2
+Jordan                     Amman Governorate     Amman                          2
+Kazakhstan                 Almaty                Almaty                         2
+Kyrgyzstan                                                                      2
+Kyrgyzstan                 Gorod Bishkek         Bishkek                        2
+Latvia                     Rīga                  Riga                           2
+Lebanon                    Beyrouth              Beirut                         2
+Lithuania                  Kaunas                Kaunas                         2
+Malaysia                   Sabah                 Kota Kinabalu                  2
+Mexico                     Hidalgo               Chilcuautla                    2
+Mexico                     Mexico City           Mexico City                    2
+Mexico                     Veracruz                                             2
+Moldova                    Chișinău Municipality  Chisinau                       2
+Morocco                    Casablanca            Casablanca                     2
+Morocco                    Oujda-Angad           Oujda                          2
+Nepal                                                                           2
+Nepal                      Bagmati Province      Kathmandu                      2
+Netherlands                South Holland         The Hague                      2
+Pakistan                   Punjab                Gujranwala                     2
+Pakistan                   Sindh                 Hyderabad                      2
+Panama                     Provincia de Panamá   Panama City                    2
+Paraguay                   Asunción              Asunción                       2
+Philippines                Province of Cebu      Cebu City                      2
+Poland                     Lesser Poland         Nowy Targ                      2
+Poland                     Mazovia               Warsaw                         2
+Portugal                                                                        2
+Qatar                      Baladīyat ad Dawḩah   Doha                           2
+Romania                    București             Bucharest                      2
+Russia                     Chelyabinsk Oblast    Chelyabinsk                    2
+Russia                     Chelyabinsk Oblast    Ozersk                         2
+Russia                     Dagestan              Makhachkala                    2
+Russia                     Kemerovo Oblast       Belovo                         2
+Russia                     Moscow Oblast         Balashikha                     2
+Russia                     Volgograd Oblast      Volgograd                      2
+Slovenia                                                                        2
+South Africa               Gauteng               Krugersdorp                    2
+South Africa               Western Cape          Cape Town                      2
+Spain                      Saragossa             Zaragoza                       2
+Sweden                     Halland County        Kungsbacka                     2
+Sweden                     Östergötland County   Mjölby                         2
+Tunisia                    Sousse Governorate    Sousse                         2
+Türkiye                                                                         2
+Ukraine                    Dnipropetrovsk Oblast  Dnipro                         2
+Ukraine                    Dnipropetrovsk Oblast  Kryvyi Rih                     2
+United Kingdom             Angus                 Montrose                       2
+United Kingdom             Bristol               Bristol                        2
+United Kingdom             Lewisham              Lewisham                       2
+United Kingdom             Manchester            Manchester                     2
+United Kingdom             Medway                Gillingham                     2
+United Kingdom             Oxfordshire           Didcot                         2
+United Kingdom             Suffolk               Beccles                        2
+United States              Arizona               Tempe                          2
+United States              California            Clovis                         2
+United States              California            Folsom                         2
+United States              California            Fresno                         2
+United States              California            Long Beach                     2
+United States              California            Mill Valley                    2
+United States              California            San Carlos                     2
+United States              Colorado              Arvada                         2
+United States              Delaware              Newark                         2
+United States              Florida               Clermont                       2
+United States              Florida               Saint Augustine                2
+United States              Illinois              Bloomington                    2
+United States              Iowa                  Altoona                        2
+United States              Kansas                Manhattan                      2
+United States              Massachusetts         Medford                        2
+United States              Michigan              Ann Arbor                      2
+United States              Michigan              Bloomfield Hills               2
+United States              Michigan              Commerce                       2
+United States              Missouri              Florissant                     2
+United States              Missouri              St Louis                       2
+United States              Missouri              Town and Country               2
+United States              New Jersey            Mays Landing                   2
+United States              New York              Delmar                         2
+United States              New York              Suffern                        2
+United States              North Carolina        Cornelius                      2
+United States              North Carolina        Greensboro                     2
+United States              North Carolina        Waynesville                    2
+United States              North Carolina        Winston-Salem                  2
+United States              North Dakota          West Fargo                     2
+United States              Ohio                  Euclid                         2
+United States              Oklahoma              Tulsa                          2
+United States              Oregon                Lincoln City                   2
+United States              Pennsylvania          Mercer                         2
+United States              Rhode Island          Cranston                       2
+United States              South Dakota          Sioux Falls                    2
+United States              Texas                 Mount Vernon                   2
+United States              Utah                  Orem                           2
+United States              Virginia              Fredericksburg                 2
+United States              Washington            Redmond                        2
+United States              Wisconsin             Sun Prairie                    2
+Uruguay                    Montevideo Department  Montevideo                     2
+Venezuela                  Carabobo              Valencia                       2
+Venezuela                  Falcón                Coro                           2
+Venezuela                  Portuguesa            Acarigua                       2
+Vietnam                    Can Tho               Can Tho                        2
+Vietnam                    Thừa Thiên Huế Province  Huế                            2
+Vietnam                    Vĩnh Long Province    Vĩnh Long                      2
+Vietnam                    Đồng Nai Province     Biên Hòa                       2
+Albania                    Durrës County         Durrës                         1
+Albania                    Elbasan County        Librazhd                       1
+Albania                    Korçë County          Korçë                          1
+Albania                    Shkodër County        Shkodër                        1
+Algeria                    Constantine           Constantine                    1
+Algeria                    Sétif                 Sétif                          1
+Angola                     Luanda Province       Luanda                         1
+Argentina                  Buenos Aires          Azul                           1
+Argentina                  Buenos Aires          Cañuelas                       1
+Argentina                  Buenos Aires          Laferrere                      1
+Argentina                  Buenos Aires          Los Cardales                   1
+Argentina                  Buenos Aires          Mar del Plata                  1
+Argentina                  Buenos Aires          Morón                          1
+Argentina                  Buenos Aires          Ramallo                        1
+Argentina                  Buenos Aires          San Carlos de Bolívar           1
+Argentina                  Buenos Aires          Santa Teresita                 1
+Argentina                  Chaco                 Resistencia                    1
+Argentina                  Chubut                Trelew                         1
+Argentina                  Cordoba               Sinsacate                      1
+Argentina                  La Rioja              Chilecito                      1
+Argentina                  Misiones              Posadas                        1
+Argentina                  Neuquen               Neuquén                        1
+Australia                  Queensland                                           1
+Austria                    Carinthia             Villach                        1
+Bahamas                    New Providence District  Nassau                         1
+Bangladesh                 Tangail               Tangail                        1
+Belgium                    Flemish Brabant Province  Hofstade                       1
+Belgium                    Limburg Province      Genk                           1
+Bolivia                    La Paz Department     La Paz                         1
+Brazil                     Alagoas               Maceió                         1
+Brazil                     Bahia                 Camaçari                       1
+Brazil                     Bahia                 Itacaré                        1
+Brazil                     Bahia                 Itapetinga                     1
+Brazil                     Bahia                 Jiquiriça                      1
+Brazil                     Bahia                 Salvador                       1
+Brazil                     Ceará                 Fortaleza                      1
+Brazil                     Espírito Santo        Aracruz                        1
+Brazil                     Espírito Santo        Cachoeiro de Itapemirim           1
+Brazil                     Espírito Santo        Itapemirim                     1
+Brazil                     Mato Grosso           Cuiabá                         1
+Brazil                     Mato Grosso do Sul    Três Lagoas                    1
+Brazil                     Minas Gerais          Alfenas                        1
+Brazil                     Minas Gerais          Belo Horizonte                 1
+Brazil                     Minas Gerais          Contagem                       1
+Brazil                     Minas Gerais          Monte Belo                     1
+Brazil                     Minas Gerais          Ponte Nova                     1
+Brazil                     Minas Gerais          Rio Preto                      1
+Brazil                     Minas Gerais          Uberlândia                     1
+Brazil                     Paraná                Cafeara                        1
+Brazil                     Paraná                Cascavel                       1
+Brazil                     Paraíba               Campina Grande                 1
+Brazil                     Paraíba               Catolé do Rocha                1
+Brazil                     Paraíba               São José da Lagoa Tapada           1
+Brazil                     Pará                  Conceição do Araguaia           1
+Brazil                     Pernambuco            Petrolina                      1
+Brazil                     Piauí                 Paulistana                     1
+Brazil                     Rio Grande do Norte   Natal                          1
+Brazil                     Rio Grande do Sul     Bagé                           1
+Brazil                     Rio Grande do Sul     Butiá                          1
+Brazil                     Rio Grande do Sul     Camaquã                        1
+Brazil                     Rio Grande do Sul     Esteio                         1
+Brazil                     Rio Grande do Sul     Gravataí                       1
+Brazil                     Rio Grande do Sul     Ibirubá                        1
+Brazil                     Rio Grande do Sul     Maximiliano de Almeida           1
+Brazil                     Rio Grande do Sul     Sapucaia do Sul                1
+Brazil                     Rio Grande do Sul     São Lourenço do Sul            1
+Brazil                     Rio Grande do Sul     São Sebastião do Caí           1
+Brazil                     Rio Grande do Sul     Trindade do Sul                1
+Brazil                     Rio Grande do Sul     Uruguaiana                     1
+Brazil                     Rio de Janeiro        Belford Roxo                   1
+Brazil                     Rio de Janeiro        Cambuci                        1
+Brazil                     Rio de Janeiro        Duque de Caxias                1
+Brazil                     Rio de Janeiro        Guapimirim                     1
+Brazil                     Rio de Janeiro        Niterói                        1
+Brazil                     Rio de Janeiro        Nova Friburgo                  1
+Brazil                     Rio de Janeiro        Petrópolis                     1
+Brazil                     Rio de Janeiro        Pinheiral                      1
+Brazil                     Rio de Janeiro        São Gonçalo                    1
+Brazil                     Santa Catarina        Chapecó                        1
+Brazil                     Santa Catarina        São José                       1
+Brazil                     Sergipe               Aracaju                        1
+Brazil                     Sergipe               Itabaianinha                   1
+Brazil                     São Paulo             Adamantina                     1
+Brazil                     São Paulo             Andradina                      1
+Brazil                     São Paulo             Birigui                        1
+Brazil                     São Paulo             Botucatu                       1
+Brazil                     São Paulo             Bragança Paulista              1
+Brazil                     São Paulo             Catanduva                      1
+Brazil                     São Paulo             Diadema                        1
+Brazil                     São Paulo             Embu das Artes                 1
+Brazil                     São Paulo             Guareí                         1
+Brazil                     São Paulo             Itaquaquecetuba                1
+Brazil                     São Paulo             Jandira                        1
+Brazil                     São Paulo             Jarinu                         1
+Brazil                     São Paulo             Jundiaí                        1
+Brazil                     São Paulo             Marília                        1
+Brazil                     São Paulo             Pindorama                      1
+Brazil                     São Paulo             Piracicaba                     1
+Brazil                     São Paulo             Praia Grande                   1
+Brazil                     São Paulo             Registro                       1
+Brazil                     São Paulo             Ribeirão Preto                 1
+Brazil                     São Paulo             Ribeirão do Sul                1
+Brazil                     São Paulo             Rosana                         1
+Brazil                     São Paulo             Santo André                    1
+Brazil                     São Paulo             São Carlos                     1
+Brazil                     São Paulo             São José dos Campos            1
+Brazil                     São Paulo             São Sebastião                  1
+Brazil                     São Paulo             Taboão da Serra                1
+Brazil                     São Paulo             Tupi Paulista                  1
+Bulgaria                   Plovdiv               Karlovo                        1
+Cambodia                   Phnom Penh            Phnom Penh                     1
+Canada                     British Columbia      Abbotsford British Columbia           1
+Chile                      Maule Region          Colbún                         1
+Chile                      Santiago Metropolitan  Puente Alto                    1
+Chile                      Tarapacá              Iquique                        1
+Colombia                                                                        1
+Colombia                   Bogota D.C.           Bogotá                         1
+Colombia                   Departamento del Chocó  Quibdó                         1
+Colombia                   Valle del Cauca Department  Cali                           1
+Dominican Republic         Nacional              Santo Domingo                  1
+Ecuador                    Pichincha             Cayambe                        1
+Ecuador                    Santa Elena                                          1
+El Salvador                San Salvador Department  San Salvador                   1
+Ethiopia                   Addis Ababa           Addis Ababa                    1
+Finland                    Uusimaa                                              1
+France                     Bas-Rhin              Lauterbourg                    1
+France                     Bas-Rhin              Strasbourg                     1
+France                     Hérault               Béziers                        1
+France                     Loire                 Roanne                         1
+France                     North                 Lille                          1
+Germany                    Baden-Wurttemberg     Ludwigsburg                    1
+Germany                    Baden-Wurttemberg     Mosbach                        1
+Germany                    Baden-Wurttemberg     Stuttgart                      1
+Germany                    Bavaria               Nuremberg                      1
+Germany                    Hamburg               Hamburg                        1
+Germany                    Hesse                 Hanau                          1
+Germany                    North Rhine-Westphalia  Lüdenscheid                    1
+Germany                    Saxony                Machern                        1
+Greece                     Crete                 Chania                         1
+Guatemala                  Chiquimula            Concepción Las Minas           1
+Honduras                   Francisco Morazán Department  Tegucigalpa                    1
+Hungary                    Bekes County          Békéscsaba                     1
+Hungary                    Budapest              Budapest                       1
+India                      Gujarat               Ahmedabad                      1
+India                      Gujarat               Rajkot                         1
+India                      Gujarat               Vadodara                       1
+India                      Haryana               Faridabad                      1
+India                      Haryana               Kurukshetra                    1
+India                      Haryana               Rohtak                         1
+India                      Karnataka             Bengaluru                      1
+India                      Kerala                Kochi                          1
+India                      Madhya Pradesh        Bhopal                         1
+India                      Madhya Pradesh        Indore                         1
+India                      Madhya Pradesh        Sidhi                          1
+India                      National Capital Territory of Delhi  Delhi                          1
+India                      Punjab                Bathinda                       1
+India                      Punjab                Jalandhar                      1
+India                      Rajasthan             Jaipur                         1
+India                      Uttar Pradesh         Aligarh                        1
+India                      Uttar Pradesh         Lucknow                        1
+India                      Uttar Pradesh         Sahāranpur                     1
+Indonesia                  Central Java          Jepara                         1
+Indonesia                  East Kalimantan       Balikpapan                     1
+Indonesia                  Lampung               Pringsewu                      1
+Indonesia                  North Sumatra         Medan                          1
+Iraq                       Baghdad                                              1
+Iraq                       Basra Governorate     Basra                          1
+Iraq                       Kirkuk Governorate    Kirkuk                         1
+Iraq                       Sulaymaniyah Governorate  Sulaymaniyah                   1
+Ireland                                                                         1
+Ireland                    Limerick              Limerick                       1
+Ireland                    Meath                 Clonee                         1
+Israel                     Central District      Rishon LeTsiyyon               1
+Israel                     Haifa                 Hadera                         1
+Italy                      Province of Verona    San Pietro in Cariano           1
+Italy                      Provincia di Foggia   Foggia                         1
+Japan                      Chiba                 Inzai                          1
+Kenya                      Nairobi County        Thika                          1
+Kosovo                                           Pristina                       1
+Kyrgyzstan                 Osh Region            Osh                            1
+Libya                                                                           1
+Malaysia                   Putrajaya             Putrajaya                      1
+Malaysia                   Sarawak               Kuching                        1
+Mexico                                                                          1
+Mexico                     Chiapas               Tuxtla Gutiérrez               1
+Mexico                     Coahuila              Saltillo                       1
+Mexico                     Guanajuato            Celaya                         1
+Mexico                     Hidalgo               Pachuca                        1
+Mexico                     Jalisco               Puerto Vallarta                1
+Mexico                     Jalisco               Zapopan                        1
+Mexico                     Mexico City           Cuauhtémoc                     1
+Mexico                     Mexico City           Gustavo Adolfo Madero           1
+Mexico                     Mexico City           Iztapalapa                     1
+Mexico                     México                Toluca                         1
+Mexico                     Querétaro             San Juan del Río               1
+Morocco                    El-Jadida             El Jadida                      1
+Morocco                    Fes                   Fes                            1
+Morocco                    Marrakech             Marrakesh                      1
+Morocco                    Rabat                 Rabat                          1
+Netherlands                North Holland         Amsterdam-Zuidoost             1
+Netherlands                North Holland         Zwaag                          1
+Netherlands                South Holland         Naaldwijk                      1
+Netherlands                South Holland         Rotterdam                      1
+North Macedonia            Kavadarci             Kavadarci                      1
+Norway                                                                          1
+Norway                     Telemark              Bø                             1
+Oman                       Dhofar                Salalah                        1
+Pakistan                   Punjab                Multan                         1
+Pakistan                   Punjab                Rawalpindi                     1
+Pakistan                   Punjab                Sialkot                        1
+Palestine                                                                       1
+Paraguay                   Central Department    Limpio                         1
+Paraguay                   Cordillera Department                                 1
+Peru                       Ica                   Ica                            1
+Peru                       Lima region                                          1
+Philippines                Metro Manila          Manila                         1
+Philippines                Province of Cavite    Bacoor                         1
+Philippines                Province of Misamis Oriental  Cagayan de Oro                 1
+Poland                     Greater Poland        Poznan                         1
+Poland                     Silesia               Będzin                         1
+Portugal                   Faro                  Loulé                          1
+Romania                    Călărași County       Olteniţa                       1
+Russia                     Ivanovo Oblast        Ivanovo                        1
+Russia                     Nizhny Novgorod Oblast  Nizhniy Novgorod               1
+Russia                     Samara Oblast         Tolyatti                       1
+Russia                     St.-Petersburg        St Petersburg                  1
+Russia                     Vladimir Oblast       Vladimir                       1
+Slovakia                   Bratislava Region     Bratislava                     1
+South Africa               Gauteng               Johannesburg                   1
+Spain                      Barcelona             Barcelona                      1
+Spain                      Barcelona             Gavà                           1
+Spain                      Barcelona             Mataró                         1
+Spain                      Cordoba               Córdoba                        1
+Spain                      Malaga                Málaga                         1
+Spain                      Tarragona             Amposta                        1
+Sweden                     Norrbotten County     Luleå                          1
+Sweden                     Stockholm County      Stockholm                      1
+Syria                                                                           1
+Syria                      Damascus Governorate  Damascus                       1
+Thailand                   Nonthaburi            Pak Kret                       1
+Thailand                   Surat Thani           Ko Samui                       1
+Trinidad and Tobago        Chaguanas             Chaguanas                      1
+Türkiye                    Ankara                Ankara                         1
+Türkiye                    Antalya               Antalya                        1
+Türkiye                    Bilecik               Bilecik                        1
+Türkiye                    Kocaeli               Gebze                          1
+Ukraine                                                                         1
+United Arab Emirates                                                            1
+United Kingdom             Bolton                Bolton                         1
+United Kingdom             Doncaster             Doncaster                      1
+United Kingdom             Durham                Durham                         1
+United Kingdom             Gloucestershire       Wotton-under-Edge              1
+United Kingdom             Hampshire             Basingstoke                    1
+United Kingdom             Hertfordshire         Hertford                       1
+United Kingdom             Norfolk               Norwich                        1
+United Kingdom             North Lanarkshire     Motherwell                     1
+United Kingdom             Pembrokeshire         Haverfordwest                  1
+United Kingdom             Sheffield             Sheffield                      1
+United Kingdom             Suffolk               Ipswich                        1
+United Kingdom             West Sussex           Crawley                        1
+United States              Alabama                                              1
+United States              Arizona               Glendale                       1
+United States              Arizona               Sahuarita                      1
+United States              Arkansas              Conway                         1
+United States              Arkansas              North Little Rock              1
+United States              California            Compton                        1
+United States              California            Concord                        1
+United States              California            El Cajon                       1
+United States              California            Roseville                      1
+United States              California            Ryde                           1
+United States              California            Trabuco Canyon                 1
+United States              Connecticut           Bridgeport                     1
+United States              Connecticut           Shelton                        1
+United States              Florida               Dade City                      1
+United States              Florida               Inverness                      1
+United States              Florida               Leesburg                       1
+United States              Florida               Winter Garden                  1
+United States              Georgia               Conyers                        1
+United States              Georgia               Dallas                         1
+United States              Georgia               Dalton                         1
+United States              Idaho                 Boise                          1
+United States              Illinois              Bolingbrook                    1
+United States              Indiana                                              1
+United States              Iowa                                                 1
+United States              Iowa                  Boone                          1
+United States              Iowa                  Waterloo                       1
+United States              Kansas                Lenexa                         1
+United States              Kansas                Pittsburg                      1
+United States              Kentucky              Mount Sterling                 1
+United States              Louisiana             Rayne                          1
+United States              Louisiana             Thibodaux                      1
+United States              Maryland                                             1
+United States              Maryland              Baltimore                      1
+United States              Michigan              Livonia                        1
+United States              Michigan              Portage                        1
+United States              Michigan              Ypsilanti                      1
+United States              Minnesota             Saint Joseph                   1
+United States              Missouri              Mexico                         1
+United States              Montana               Helena                         1
+United States              Nebraska              Franklin                       1
+United States              New Hampshire         Moultonborough                 1
+United States              New Jersey            Hackensack                     1
+United States              New Jersey            Hoffman                        1
+United States              New Jersey            Secaucus                       1
+United States              New Jersey            Union                          1
+United States              New York              Albany                         1
+United States              New York              Buffalo                        1
+United States              New York              Dunkirk                        1
+United States              New York              Newark                         1
+United States              New York              Orangeburg                     1
+United States              North Carolina                                       1
+United States              Ohio                  Beavercreek                    1
+United States              Ohio                  North Royalton                 1
+United States              Ohio                  Powell                         1
+United States              Oregon                Woodburn                       1
+United States              Pennsylvania          Landenberg                     1
+United States              Pennsylvania          Norristown                     1
+United States              Pennsylvania          Philadelphia                   1
+United States              South Carolina        Greenwood                      1
+United States              Tennessee             Dyersburg                      1
+United States              Tennessee             Pleasant View                  1
+United States              Tennessee             Whitwell                       1
+United States              Texas                                                1
+United States              Texas                 Graham                         1
+United States              Texas                 Irving                         1
+United States              Texas                 Lewisville                     1
+United States              Texas                 San Marcos                     1
+United States              Utah                  Eagle Mountain                 1
+United States              Utah                  Spanish Fork                   1
+United States              Virginia              Hampton                        1
+United States              Washington            Graham                         1
+United States              Washington            Tukwila                        1
+United States              West Virginia         Clarksburg                     1
+United States              Wisconsin             Fitchburg                      1
+Uruguay                                                                         1
+Venezuela                  Estado Trujillo       Trujillo                       1
+Venezuela                  Monagas                                              1
+Vietnam                    Bắc Giang Province    Bắc Giang                      1
+Vietnam                    Bắc Ninh Province     Bắc Ninh                       1
+Vietnam                    Hanoi                 Thái Bình                      1
+Vietnam                    Nghệ An Province      Vinh                           1
+---------------------------------------------------------------------------------
+TOTAL                                                                      21,048
