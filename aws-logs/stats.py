@@ -8,6 +8,8 @@ Run with no args for the full report, or pass a flag to narrow it:
   python3 stats.py --episodes       # all-time per episode
   python3 stats.py --year 2018      # one year breakdown
   python3 stats.py --episode 021    # history for one episode (partial match)
+  python3 stats.py --geo            # downloads by country
+  python3 stats.py --country Canada # monthly breakdown for one country
 """
 
 import argparse
@@ -83,6 +85,63 @@ def episode_history(conn, name):
     print(f"{'TOTAL':<10}  {sum(r['downloads'] for r in rows):>10,}")
 
 
+def geo_report(conn):
+    try:
+        rows = conn.execute("""
+            SELECT COALESCE(g.country, '(unknown)') AS country,
+                   COUNT(*)                         AS downloads
+            FROM   downloads d
+            LEFT   JOIN geo g ON d.remote_ip = g.remote_ip
+            GROUP  BY country
+            ORDER  BY downloads DESC
+        """).fetchall()
+    except Exception:
+        print("No geo data found. Run: python3 geolocate.py")
+        return
+
+    geo_total = conn.execute("SELECT COUNT(*) FROM geo WHERE country IS NOT NULL").fetchone()[0]
+    ip_total  = conn.execute("SELECT COUNT(DISTINCT remote_ip) FROM downloads").fetchone()[0]
+
+    print(f"\n{'Country':<35}  {'Downloads':>10}")
+    print("-" * 48)
+    for r in rows:
+        print(f"{r['country']:<35}  {r['downloads']:>10,}")
+    print("-" * 48)
+    print(f"{'TOTAL':<35}  {sum(r['downloads'] for r in rows):>10,}")
+    print(f"\nIPs geolocated: {geo_total:,} of {ip_total:,} unique  "
+          f"(run geolocate.py to fill gaps)")
+
+
+def country_history(conn, name):
+    try:
+        rows = conn.execute("""
+            SELECT strftime('%Y-%m', d.timestamp) AS month,
+                   COUNT(*)                       AS downloads
+            FROM   downloads d
+            LEFT   JOIN geo g ON d.remote_ip = g.remote_ip
+            WHERE  g.country LIKE ?
+            GROUP  BY month
+            ORDER  BY month
+        """, (f"%{name}%",)).fetchall()
+    except Exception:
+        print("No geo data found. Run: python3 geolocate.py")
+        return
+
+    if not rows:
+        print(f"No downloads found for country matching '{name}'")
+        return
+
+    matched = conn.execute(
+        "SELECT DISTINCT country FROM geo WHERE country LIKE ?", (f"%{name}%",)
+    ).fetchall()
+    print(f"\nMatching countries: {', '.join(r['country'] for r in matched)}")
+    print(f"\n{'Month':<10}  {'Downloads':>10}")
+    print("-" * 23)
+    for r in rows:
+        print(f"{r['month']:<10}  {r['downloads']:>10,}")
+    print(f"{'TOTAL':<10}  {sum(r['downloads'] for r in rows):>10,}")
+
+
 def full_report(conn):
     total = conn.execute("SELECT COUNT(*) FROM downloads").fetchone()[0]
     date_range = conn.execute(
@@ -108,12 +167,18 @@ def main():
     parser.add_argument("--episodes", action="store_true")
     parser.add_argument("--year",     metavar="YYYY")
     parser.add_argument("--episode",  metavar="NAME")
+    parser.add_argument("--geo",      action="store_true")
+    parser.add_argument("--country",  metavar="NAME")
     args = parser.parse_args()
 
     conn = connect()
 
     if args.episode:
         episode_history(conn, args.episode)
+    elif args.country:
+        country_history(conn, args.country)
+    elif args.geo:
+        geo_report(conn)
     elif args.monthly or args.year:
         monthly(conn, year=args.year)
         if args.year:
