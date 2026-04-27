@@ -9,6 +9,7 @@ Run with no args for the full report, or pass a flag to narrow it:
   python3 stats.py --year 2018      # one year breakdown
   python3 stats.py --episode 021    # history for one episode (partial match)
   python3 stats.py --geo            # downloads by country
+  python3 stats.py --geo-detail     # downloads by country / subdivision / city + lat/lon
   python3 stats.py --country Canada # monthly breakdown for one country
 """
 
@@ -112,6 +113,30 @@ def geo_report(conn):
           f"(run geolocate.py to fill gaps)")
 
 
+def geo_report_detailed(conn):
+    try:
+        rows = conn.execute("""
+            SELECT COALESCE(g.country,     '(unknown)') AS country,
+                   COALESCE(g.subdivision, '')          AS subdivision,
+                   COALESCE(g.city,        '')          AS city,
+                   COUNT(*)                             AS downloads
+            FROM   downloads d
+            LEFT   JOIN geo g ON d.remote_ip = g.remote_ip
+            GROUP  BY country, subdivision, city
+            ORDER  BY downloads DESC
+        """).fetchall()
+    except Exception:
+        print("No geo data found. Run: python3 geolocate.py")
+        return
+
+    print(f"\n{'Country':<25}  {'Subdivision':<20}  {'City':<20}  {'Downloads':>10}")
+    print("-" * 81)
+    for r in rows:
+        print(f"{r['country']:<25}  {r['subdivision']:<20}  {r['city']:<20}  {r['downloads']:>10,}")
+    print("-" * 81)
+    print(f"{'TOTAL':<69}  {sum(r['downloads'] for r in rows):>10,}")
+
+
 def country_history(conn, name):
     try:
         rows = conn.execute("""
@@ -167,8 +192,9 @@ def main():
     parser.add_argument("--episodes", action="store_true")
     parser.add_argument("--year",     metavar="YYYY")
     parser.add_argument("--episode",  metavar="NAME")
-    parser.add_argument("--geo",      action="store_true")
-    parser.add_argument("--country",  metavar="NAME")
+    parser.add_argument("--geo",        action="store_true")
+    parser.add_argument("--geo-detail", action="store_true")
+    parser.add_argument("--country",    metavar="NAME")
     args = parser.parse_args()
 
     conn = connect()
@@ -177,6 +203,8 @@ def main():
         episode_history(conn, args.episode)
     elif args.country:
         country_history(conn, args.country)
+    elif args.geo_detail:
+        geo_report_detailed(conn)
     elif args.geo:
         geo_report(conn)
     elif args.monthly or args.year:
